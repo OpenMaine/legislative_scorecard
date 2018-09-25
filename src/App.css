@@ -1,0 +1,754 @@
+/**
+ * colors:
+ *   background gray: #F4FBFE
+ *   primary blue: #1B8BB4
+ *   darkblue: #02455F
+ *   lightblue: #c3d2d9
+ *   yellow: #FFCA48
+ *   green: #00B142
+ *   red: #FF5734
+ *
+ *   good: #2fb129
+ *   bad: #fa5927
+ *
+ * breakpoints:
+ *   xs-min: 30em;
+ *   sm-min: 48em;
+ *   md-min: 64em;
+ *   lg-min: 75em;
+ */
+
+.App {
+  position: relative;
+  min-height: 100vh;
+  box-sizing: border-box;
+  padding-bottom: 5rem;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: right;
+  font-size: 0.9em;
+  color: #888;
+}
+
+.footer p {
+  line-height: 5rem;
+  padding: 0;
+  margin: 0;
+}
+
+.footer a {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #888;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F4FBFE;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+h1 {
+  font-weight: 200;
+  font-size: 1.8em;
+}
+
+p {
+  font-weight: 300;
+  line-height: 1.6em;
+  letter-spacing: 0.01em;
+}
+
+section {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+hr {
+  /* color: #c3d2d9; */
+  border: none;
+  border-top: solid 1px #e0e0e0;
+}
+
+button, .button, input[type=submit] {
+  display: inline-block;
+  text-decoration: none;
+  background: #1B8BB4;
+  color: #fff;
+  outline: none;
+  height: 36px;
+  line-height: 35px;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
+
+button.full-width,
+.button.full-width,
+input[type=submit].full-width {
+  display: block;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+}
+
+
+button:not([disabled]),
+.button:not([disabled]),
+input[type=submit]:not([disabled]) {
+  cursor: pointer;
+}
+
+select,
+input:not([type=submit]):not([type=radio]):not([type=checkbox]) {
+  display: inline-block;
+  box-sizing: border-box;
+  height: 36px;
+  width: 240px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  margin-right: 0.5rem;
+  color: #4A4A4A;
+  font-size: 0.9rem;
+  background: #e6f0f6;
+  border: none;
+  border-radius: 0;
+}
+
+select.full-width,
+input:not([type=submit]).full-width {
+  display: block !important;
+  width: 100% !important;
+}
+
+@media only screen and (min-width: 48em) and (max-width: 64em) {
+  .town {
+    width: 200px;
+  }
+  button, input[type=submit] {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media screen and (max-width: 48em) {
+  select, button,
+  input:not([type=radio]):not([type=checkbox]) {
+    display: block !important;
+    margin: 0 0 0.5em !important;
+    width: 100% !important;
+  }
+}
+
+input[type=radio], input[type=checkbox] {
+  margin-right: .5rem;
+  vertical-align: text-bottom;
+}
+
+.radio-group {
+  text-align: right;
+}
+
+.radio-group label:not(:last-child) {
+  margin-right: 1rem;
+}
+
+
+section h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media only screen and (max-width: 48em) {
+  section h1 {
+    margin-bottom: 1rem;
+  }
+}
+
+
+
+
+/* Container */
+
+ .container {
+   max-width: 1000px;
+   padding-left: 1rem;
+   padding-right: 1rem;
+   box-sizing: border-box;
+ }
+
+
+
+
+/* Header */
+
+.header {
+  background: #02455F;
+  color: #fff;
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.banner {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  font-size: 1.65em;
+  color: #FFF;
+}
+a.brand {
+  display: inline-block;
+  color: inherit;
+  text-decoration: none;
+  margin-right: 1rem;
+  white-space: nowrap;
+}
+.banner .scorecard-title {
+  font-weight: 100;
+  font-size: .85em;
+  white-space: nowrap;
+}
+
+nav {
+
+}
+nav a {
+  display: inline-block;
+  /* font-size: ; */
+  padding: 0 1em 1em;
+  border-bottom: solid 3px rgba(0,0,0,0);
+  color: #FFF;
+  font-weight: 300;
+  text-decoration: none;
+  opacity: 0.7;
+}
+nav a.active {
+  border-bottom-color: #FFCA48;
+  opacity: 1;
+}
+
+
+
+
+/* Cards */
+
+.card {
+  background: #fff;
+  padding: 1rem;
+  box-shadow: 1px 2px 12px 0px #ccc;
+}
+
+@media only screen and (max-width: 48em) {
+  .card-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+
+
+/* Legislators */
+
+.legislator-cards {
+  margin-top: 1rem;
+}
+
+.legislator-card {
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+.legislator-card .badge {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #888;
+  color: white;
+  font-size: 0.8em;
+  padding: .2em .3em;
+}
+.legislator-card.your .badge {
+  background: #FFCA48;
+}
+
+.legislator-card .mpa-score {
+  margin-top: 1rem;
+  /* margin-bottom: 1rem; */
+}
+
+.legislator-card .voter-score {
+  /* margin-top: 1rem; */
+  /* margin-bottom: 1rem; */
+}
+
+.legislator-card .view-voting-record {
+  margin-top: 1rem;
+}
+
+
+/* Legislator Info */
+
+.legislator-info .col-xs {
+  flex-grow: 0;
+}
+.legislator-info .col-xs:nth-child(2) {
+  flex-grow: 1;
+}
+
+
+.legislator-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 999999999px;
+  border: solid 2px #02455F;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  filter: grayscale(100%);
+}
+
+.legislator-avatar img {
+  width: 50px;
+}
+
+.legislator-name {
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+
+.legislator-name a {
+  color: black;
+  text-decoration: none;
+}
+
+.legislator-subtitle {
+  color: #9B9B9B;
+  /* font-weight: 300; */
+  font-size: 0.9em;
+}
+@media screen and (max-width: 48em) {
+  .legislator-subtitle > span {
+    display: block;
+  }
+  .legislator-subtitle .bull {
+    display: none;
+  }
+}
+
+.legislator-actions {
+  display: flex;
+  flex-flow: row nowrap;
+}
+.legislator-action {
+  position: relative;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9999px;
+  box-sizing: border-box;
+  width: 50px; height: 50px;
+  border: solid thin #e6e6e6;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 30em) {
+  .legislator-info .col-xs:nth-child(3) {
+    flex-basis: 100%;
+  }
+  .legislator-info .legislator-actions {
+    margin-top: 1rem;
+    justify-content: center;
+  }
+  .legislator-info.compact .legislator-actions {
+    margin-top: .5rem;
+  }
+}
+
+input.popover-input {
+  background: #f3f3f3 !important;
+  border: solid thin #aaa !important;
+  border-radius: 4px !important;
+}
+
+
+
+/* Legislator Detail */
+
+.district-info .title {
+  margin-bottom: 0.8rem;
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
+.district-info .description {
+  font-size: 0.9em;
+  color: #aaa;
+}
+
+@media screen and (max-width: 48em) {
+  .district-info .title {
+    margin-bottom: .4rem;
+  }
+  .term-info {
+    margin-top: 2rem;
+  }
+}
+
+@media only screen and (max-width: 64em) {
+  .legislator-detail .voter-score {
+    margin-top: 2rem;
+  }
+}
+
+
+
+
+/* Find My Legislators */
+.find-my-legislators {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.find-my-legislators button,
+.find-my-legislators input[type=submit] {
+  padding-left: 0;
+  padding-right: 0;
+  width: 165px;
+  text-align: center;
+}
+.find-my-legislators button > div {
+  margin-left: auto;
+  margin-right: auto;
+}
+.find-my-legislators select,
+.find-my-legislators input,
+.find-my-legislators button {
+  vertical-align: top;
+}
+
+.find-my-legislators input.zip {
+  width: 100px !important;
+}
+
+
+.find-my-legislators .error-message {
+  margin-top: 0.5rem;
+  color: #c00;
+}
+
+@media only screen and (min-width: 48em) {
+  .find-my-legislators .error-message {
+    position: absolute;
+  }
+}
+
+
+
+/* Legislators Page */
+
+.legislators .zero-state-message {
+  margin-top: 7rem;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #444;
+}
+
+@media only screen and (max-width: 48em) {
+  .legislators .zero-state-message {
+    font-size: 1.5em;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+
+
+/* Score bar */
+
+.score-bar {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.score-bar .bar {
+  flex: 1 1 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  overflow: hidden;
+  border-radius: 2px;
+}
+.score-bar .bar > div {
+  height: 10px;
+}
+
+.score-bar .bar .good {
+  background: #2fb129;
+  flex: 0 0 auto;
+}
+
+.score-bar .bar .bad {
+  background: #fa5927;
+  flex: 1 1 auto;
+  margin-left: 3px;
+}
+
+.score-bar .text {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.score-bar.extreme .bar .bad {
+  margin-left: 0;
+}
+
+.score-bar .number {
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 99999px;
+  border: solid 1px #888;
+  margin-left: 10px;
+}
+
+.score-bar-sub-text {
+  margin-top: -10px;
+  margin-right: 60px;
+  font-size: 0.85em;
+  line-height: 1.4em;
+  color: #aaa;
+}
+.score-bar-sub-text b {
+  color: #000;
+}
+
+
+
+
+
+
+/* List items */
+
+.card.list {
+  padding: 0;
+}
+
+.list-item {
+  padding: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.list-item:not(:last-child) {
+  border-bottom: solid 1px #ddd;
+}
+
+.list-item .title {
+  display: block;
+  text-decoration: none;
+  color: initial;
+  font-weight: 600;
+  margin-bottom: 0.8rem
+}
+
+.list-item .title span.bill-id {
+  color: #1B8BB4;
+}
+
+.list-item .description,
+.list-item .stance {
+  color: #999;
+}
+
+@media only screen and (max-width: 64em) {
+  .list-item .title-description {
+    margin-bottom: 1rem;
+  }
+}
+
+.stance.Supported {
+  color: #2fb129;
+}
+
+.stance.Opposed {
+  color: #fa5927;
+}
+
+.list-item .stance.neutral,
+.list-item .stance.good,
+.list-item .stance.bad {
+  display: inline-block;
+  padding: .2em .3em;
+  margin-top: -2em;
+  color: white;
+}
+.list-item .stance.good {
+  background-color: #2fb129;
+}
+.list-item .stance.good:before {
+  content:  "\2713";
+  margin-right: 0.3em;
+}
+.list-item .stance.bad {
+  background-color: #fa5927;
+}
+.list-item .stance.bad:before {
+  content: "\2715";
+  margin-right: 0.3em;
+}
+.list-item .stance.neutral {
+  background-color: #aaa;
+}
+
+@media only screen and (max-width: 48em) {
+  .list-item .button.full-width {
+    margin-top: 1rem;
+  }
+}
+
+
+
+/* Bill Detail */
+
+.bill-text-link {
+  display: inline-block;
+  color: #1B8BB4;
+  text-decoration: none;
+  margin-right: 2rem;
+}
+.bill-more-info-link {
+  display: inline-block;
+  color: #1B8BB4;
+  text-decoration: none;
+  margin-right: 2rem
+}
+.mpa-stance.Supported {
+  color: #2fb129;
+}
+.mpa-stance.Opposed {
+  color: #fa5927;
+}
+
+.bill-detail .bill-photo {
+  float: left;
+  width: 300px;
+}
+
+.bill-detail .bill-photo img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.bill-detail .bill-photo .caption {
+  font-size: 0.9em;
+  color: #888;
+  line-height: normal;
+  margin-top: .5em;
+}
+
+.bill-detail .bill-copy {
+  margin-left: 332px;
+}
+
+
+@media only screen and (max-width: 48em) {
+  .bill-detail .bill-photo {
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+
+  .bill-detail .bill-photo .caption {
+    text-align: left;
+  }
+
+  .bill-detail .bill-copy {
+    margin-left: 0;
+  }
+}
+
+.bill-detail .bill-copy h2 {
+  margin-top: 2rem;
+  font-size: 1.3em;
+}
+
+.bill-detail .bill-copy .quote-attribution {
+  display: inline-block;
+  margin-top: 0.3rem;
+  font-style: italic;
+
+}
+
+
+
+
+/* About Page */
+
+.about-page section {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.faq h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.faq p {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+
+
+
+/* Popovers */
+
+.popover input {
+  width: 100%;
+}
+
+
+
+/* 404 Page not found */
+
+.page-not-found {
+  text-align: center;
+  margin-top: 8rem;
+}
+
+.page-not-found .num {
+  font-size: 3rem;
+}
+
+
+
+/* Filter results */
+
+.no-results {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  text-align: center;
+}

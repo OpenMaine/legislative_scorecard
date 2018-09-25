@@ -1,0 +1,38 @@
+[
+  {
+    "Question": "Where can I find my legislators’ scores? ",
+    "Answer": "Here: http://mpascorecard.org/legislators."
+  },
+  {
+    "Question": "Where can I find bill descriptions?",
+    "Answer": "Here: http://mpascorecard.org/bills.\n\nTo learn more about each individual bill, click the “details” box."
+  },
+  {
+    "Question": "What are the issues you included in the scorecard?",
+    "Answer": "The range of bills we scored touched upon a number of issues, including: access to healthcare, treatment for opioid addiction, tax fairness, solar policy, student debt, fair employment practices, wages, discrimination, and the citizen initiative process.  "
+  },
+  {
+    "Question": "What is the \"Will of the Voters\" score? ",
+    "Answer": "This score looks specifically at votes over the last two years that had to do with upholding or rolling back citizen initiatives passed by voters, or messing with the referendum process. (Examples include the vote to roll back the minimum wage increase, and the vote to repeal the Stand Up for Students education surcharge, and a number of votes to make it harder to get on the ballot for a citizen initiative.) "
+  },
+  {
+    "Question": "Why are some bills scored in the House and not the Senate, and vice-versa? ",
+    "Answer": "We score bills that received a “roll call” vote (where the individual yes or no votes on a bill are recorded). Not every bill receives a “roll call” in both chambers. Sometimes that’s because the vote was never taken up by one of the chambers (such as was the case with a number of bills that died after House Republicans voted against extending the legislative session). Other times it’s because the bill passed “under the hammer,” meaning unanimously. We can’t score a bill if we don’t know how each legislator voted on it, so there are a few cases where we could only score it in the House or the Senate. "
+  },
+  {
+    "Question": "Why do absences count against legislators?",
+    "Answer": "When legislators are elected to serve the people, their job is to show up. In recent years, the voting margins have been so slim that a single missing member of the House or Senate could pass or kill a bill. Unless an absence is excused, we do count absences against a legislator’s score, because we can’t differentiate between somebody missing a day in Augusta and somebody who’s “taking a walk” to avoid casting a vote. (This really does happen! https://twitter.com/tarynhallweaver/status/983749845575000064)"
+  },
+  {
+    "Question": "Do you have scores from the first half of the 128th legislative session?",
+    "Answer": "Yes, visit www.mainepeoplesalliance.org/2017scorecard."
+  },
+  {
+    "Question": "What do I do with this information? ",
+    "Answer": "First: Please share this scorecard. Every Maine has the right to know how their elected officials voted, and whether they were actually representing their constituents -or the interests of the wealthy and corporations. \n\nSecond: Get involved. Write or call your legislator to tell them your thoughts on their votes. And the ultimate form of accountability? Elections. We’ve got a big one coming up in November. \n\nYou can see if your legislators are up for re-election when you look up their score. Happy with how they voted? Volunteer to knock on some doors, make phone calls, and help get them back in office. (And throw them five dollars if they’re running as a clean elections candidate here: https://www5.informe.org/cgi-bin/online/ethics/cleanelection/home.pl) Unhappy with their score? Volunteer with the person challenging them. "
+  },
+  {
+    "Question": "Who do I talk to if I have any other questions about the scorecard?",
+    "Answer": "Email MPA legislative director Taryn Hallweaver at taryn@mainepeoplesalliance.org "
+  }
+]
