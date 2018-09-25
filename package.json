@@ -33,7 +33,7 @@
     "whatwg-fetch": "^2.0.4"
   },
   "scripts": {
-    "start": "REACT_APP_ENV=development react-scripts start",
+    "start": "PORT=80 react-scripts start",
     "build_env": ". ./.env.${REACT_APP_ENV} && react-scripts build && react-snap",
     "build:staging": "REACT_APP_ENV=staging yarn build_env",
     "build:production": "REACT_APP_ENV=production yarn build_env",
