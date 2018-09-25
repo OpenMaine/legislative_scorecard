@@ -54,6 +54,10 @@ class About extends React.PureComponent {
     return (
       <div className="about-page container">
         {renderedAboutSections}
+        <section className="faq">
+          <h1>FAQs</h1>
+          {renderedFaqs}
+        </section>
       </div>
     )
   }

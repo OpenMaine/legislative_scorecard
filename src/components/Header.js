@@ -6,7 +6,7 @@ export default function Header(props) {
     <div className="header">
       <div className="banner container">
         <Link to="/" className="brand">
-          Maine AFL-CIO
+          Maine People's Alliance
         </Link>
         <span className="scorecard-title">2018 Legislative Scorecard</span>
       </div>

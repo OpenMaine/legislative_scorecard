@@ -587,11 +587,11 @@ input.popover-input {
   }
 }
 
-.stance.Supported {
+.list-item .stance.Supported {
   color: #2fb129;
 }
 
-.stance.Opposed {
+.list-item .stance.Opposed {
   color: #fa5927;
 }
 
@@ -697,8 +697,6 @@ input.popover-input {
 .bill-detail .bill-copy .quote-attribution {
   display: inline-block;
   margin-top: 0.3rem;
-  font-style: italic;
-
 }
 
 
