@@ -7,36 +7,23 @@ import map from 'lodash/map'
 import pickBy from 'lodash/pickBy'
 import isEmpty from 'lodash/isEmpty'
 import memoize from 'lodash/memoize'
+import Linkify from 'react-linkify'
 
 
-const filterOptions = [
-  { value: '2018Bills', label: '2018 bills' },
-  { value: 'voterBills', label: 'Will of the Voters bills' },
-]
 
 
 export default class LegislatorVoteList extends React.PureComponent {
 
   state = {
-    filter: '2018Bills',
   }
 
   getCachedVotes = memoize(function(filter) {
     const votes = {...this.props.legislator.votes};
-
-    if (filter === '2018Bills') {
-      return pickBy(votes, (stance, billId) => {
-        return billsById[billId].is_2018_bill
-      })
-    }
-    else {
-      return pickBy(votes, (stance, billId) => {
-        return !isEmpty(billsById[billId].voter_stance)
-      })
-    }
   })
 
   getVotes() {
+    return this.props.legislator.votes;
+
     const { filter } = this.state;
     const votes = this.getCachedVotes(filter);
     return votes;
@@ -70,10 +57,10 @@ export default class LegislatorVoteList extends React.PureComponent {
           <div className="row">
             <div className="col-xs-12 col-sm"><div className="box">
               <h1>Voting history</h1>
-            </div></div>
-            <div className="col-xs-6 col-sm-4 col-md-3"><div className="box">
-              <Select options={filterOptions} value={filter} onChange={this.handeFilterChange} className="full-width" />
-            </div></div>
+            </div>
+            </div>
+            
+            
           </div>
         </section>
         <section className="container card-container">
@@ -93,8 +80,12 @@ function Vote(props) {
   const {
     shorthand_title,
     short_description,
-    mpa_stance,
+    org_stance,
   } = bill
+
+  bill.short_description.split("\n\n").map((paragraph, i) => {
+      return <p key={i}><Linkify >{paragraph}</Linkify></p>
+    })
 
   const billId = bill.id.replace(/\s/g, '\u00A0')
 
@@ -103,7 +94,7 @@ function Vote(props) {
   let stanceClassName
   if (legislator_stance.match((/Excused|n\/a/i)))
     stanceClassName = 'neutral'
-  else if (legislator_stance === mpa_stance)
+  else if (legislator_stance === org_stance)
     stanceClassName = 'good'
   else
     stanceClassName = 'bad'
@@ -113,14 +104,13 @@ function Vote(props) {
       <div className="row">
         <div className="col-xs-12 col-sm"><div className="box title-description">
           <Link to={billPath(bill)} className="title">
-            {shorthand_title} &nbsp;
-            <span className="bill-id">{billId}</span>
+            <span className="bill-id">{billId} - {bill.subject}</span>
           </Link>
           <div className="description">{short_description}</div>
         </div></div>
         <div className="col-xs-6 col-sm-2"><div className="box">
-          <div className="title">MPA bill stance</div>
-          <div className="stance">{mpa_stance}</div>
+          <div className="title">Main AFL-CIO bill stance</div>
+          <div className="stance">{org_stance}</div>
         </div></div>
         <div className="col-xs-6 col-sm-2"><div className="box">
           <div className="title">

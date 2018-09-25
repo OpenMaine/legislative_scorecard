@@ -155,7 +155,7 @@ function Vote(props) {
   const { bill, legislator, legislator_stance } = props
 
   const {
-    mpa_stance,
+    org_stance,
   } = bill
 
   const lastName = legislator.name.lastName
@@ -163,7 +163,7 @@ function Vote(props) {
   let stanceClassName
   if (legislator_stance.match((/Excused|n\/a/i)))
     stanceClassName = 'neutral'
-  else if (legislator_stance === mpa_stance)
+  else if (legislator_stance === org_stance)
     stanceClassName = 'good'
   else
     stanceClassName = 'bad'
@@ -175,8 +175,8 @@ function Vote(props) {
           <LegislatorInfo legislator={legislator} superCompact includeTitle />
         </div></div>
         <div className="col-xs-6 col-sm-2"><div className="box">
-          <div className="title">MPA bill stance</div>
-          <div className="stance">{mpa_stance}</div>
+          <div className="title">Maine AFL-CIO bill stance</div>
+          <div className="stance">{org_stance}</div>
         </div></div>
         <div className="col-xs-6 col-sm-2"><div className="box">
           <div className="title">

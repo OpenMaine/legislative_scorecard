@@ -23,9 +23,13 @@ function Bill(props) {
 
   const {
     shorthand_title,
+    subject,
     short_description,
-    mpa_stance,
+    org_stance,
+    official_title
   } = bill
+
+
 
   const billId = props.bill.id.replace(/\s/g, '\u00A0')
 
@@ -34,16 +38,16 @@ function Bill(props) {
       <div className="row">
         <div className="col-xs"><div className="box title-description">
           <Link to={billPath(bill)} className="title">
-            {shorthand_title} &nbsp;
-            <span className="bill-id">{billId}</span>
+            <span className="bill-id">{billId} - {subject}</span>
           </Link>
+          <h3>{official_title}</h3>
           <div className="description">{short_description}</div>
         </div></div>
-        { mpa_stance &&
+        { org_stance &&
           <div className="col-xs-3 col-sm-2">
             <div className="box">
-              <div className="title">MPA stance</div>
-              <div className={`stance ${mpa_stance}`}>{mpa_stance}</div>
+              <div className="title">Main AFL-CIO stance</div>
+              <div className={`stance ${org_stance}`}>{org_stance}</div>
             </div>
           </div>
         }

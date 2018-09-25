@@ -20,7 +20,7 @@ export default function LegislatorDetail({ match }) {
     legislative_chamber,
     districtNum,
     towns,
-    mpaScore,
+    orgscore,
     voterScore,
     seeking_reelection,
     term_limited,
@@ -58,18 +58,13 @@ export default function LegislatorDetail({ match }) {
           <div className="row">
             <div className="col-xs-12 col-md-5"><div className="mpa-score box">
               <h1>2018 Score</h1>
-              <ScoreBar score={mpaScore} />
+              <ScoreBar score={orgscore} />
               <div className="score-bar-sub-text">
                 {`${abbreviatedChamberTitle(legislator)} ${name.lastName}'s alignment with our values this legislative session.`}
               </div>
-            </div></div>
-            <div className="col-xs-12 col-md-5 col-md-offset-2"><div className="voter-score box">
-              <h1>Will of the voters</h1>
-              <ScoreBar score={voterScore} />
-              <div className="score-bar-sub-text">
-                {`${abbreviatedChamberTitle(legislator)} ${name.lastName}'s score on respecting referendums the last two years.`}
-              </div>
-            </div></div>
+            </div>
+            </div>
+            
           </div>
         </section>
         <hr />

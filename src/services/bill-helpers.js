@@ -3,7 +3,7 @@ import { billsById } from '../data/index'
 
 export const billPath = (bill) => {
   const idSlug = slug(bill.id)
-  const titleSlug = slug(bill.shorthand_title)
+  const titleSlug = slug(bill.subject)
 
   return `/bills/${idSlug}/${titleSlug}`
 }

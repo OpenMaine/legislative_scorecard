@@ -4,12 +4,8 @@ import { bills as allBills } from '../data/'
 import Select from './Select'
 import memoize from 'lodash/memoize'
 import isEmpty from 'lodash/isEmpty'
+import Linkify from 'react-linkify'
 
-
-const filterOptions = [
-  { value: '2018Bills', label: '2018 bills' },
-  { value: 'voterBills', label: 'Will of the Voters bills' },
-]
 
 class Bills extends React.PureComponent {
   state = {
@@ -17,15 +13,22 @@ class Bills extends React.PureComponent {
   }
 
   getCachedBills = memoize(function(filter) {
-    if (filter === '2018Bills')
-      return allBills.filter(bill => bill.is_2018_bill)
-    else
-      return allBills.filter(bill => !isEmpty(bill.voter_stance))
+      return allBills
   })
+
+  splitParagraphs(content='') {
+    return content.split("\n\n").map((paragraph, i) => {
+      return <p key={i}><Linkify properties={this.linkProps}>{paragraph}</Linkify></p>
+    })
+  }
 
   getBills() {
     const { filter } = this.state;
-    return this.getCachedBills(filter);
+    var bills = this.getCachedBills(filter);
+    bills.map((bill, i) => {
+      bill.short_description = this.splitParagraphs(bill.short_description);
+    })
+    return bills;
   }
 
   handeFilterChange = (e) => {
@@ -44,9 +47,6 @@ class Bills extends React.PureComponent {
             <div className="row">
               <div className="col-xs"><div className="box">
                 <h1>Bills</h1>
-              </div></div>
-              <div className="col-xs-12 col-sm-4 col-md-3"><div className="box">
-                <Select options={filterOptions} value={filter} onChange={this.handeFilterChange} className="full-width" />
               </div></div>
             </div>
           </section>
