@@ -20,7 +20,7 @@ export default function LegislatorCard(props) {
   const {
     name,
     legislative_chamber,
-    mpaScore,
+    orgscore,
     voterScore,
   } = legislator
 
@@ -32,15 +32,9 @@ export default function LegislatorCard(props) {
         <div className="badge">{badgeText}</div>
         <LegislatorInfo legislator={legislator} compact />
         <div className="mpa-score">
-          <ScoreBar score={mpaScore} />
+          <ScoreBar score={orgscore} />
           <div className="score-bar-sub-text">
             <b>2018 Score:</b> {`${abbreviatedChamberTitle(legislator)} ${name.lastName}'s alignment with our values this legislative session.`}
-          </div>
-        </div>
-        <div className="voter-score">
-          <ScoreBar score={voterScore} />
-          <div className="score-bar-sub-text">
-            <b>Will of the voters:</b> {`${abbreviatedChamberTitle(legislator)} ${name.lastName}'s score on respecting referendums the last two years.`}
           </div>
         </div>
         <div className="view-voting-record">
