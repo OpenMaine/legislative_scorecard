@@ -75,7 +75,7 @@ export default class BillVoteList extends React.PureComponent {
       legislators = orderBy(legislators, ['name.lastName'])
     }
     else {
-      legislators = orderBy(legislators, [scoreType], [sortFilter])
+      legislators = orderBy(legislators, 'orgscore', [sortFilter])
     }
 
     return renderLegislators(legislators, scoreType)
@@ -121,9 +121,6 @@ export default class BillVoteList extends React.PureComponent {
               <h1>All Scores</h1>
             </div></div>
             <div className="col-xs-6 col-sm-3 col-md-2"><div className="box">
-              <Select options={scoreOptions} value={scoreType} onChange={this.handeScoreTypeChange} className="full-width" />
-            </div></div>
-            <div className="col-xs-6 col-sm-3 col-md-2"><div className="box">
               <Select options={sortOptions} value={sortFilter} onChange={this.handeSortFilterChange} className="full-width" />
             </div></div>
             <div className="col-xs-6 col-sm-3 col-md-2"><div className="box">
@@ -167,7 +164,7 @@ function Legislator(props) {
   const { legislator, scoreType } = props
   const { name } = legislator
 
-  const score = legislator[scoreType]
+  const score = legislator.orgscore
 
   return (
     <div className="list-item">

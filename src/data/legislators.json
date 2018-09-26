@@ -30,14 +30,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Deane Rykerson",
             "ftm_eid": "16072400",
             "votesmart_id": 142909,
             "opensecrets_id": "",
-            "ballotpedia": "Deane_Rykerson"
+            "ballotpedia": "Deane_Rykerson",
+            "people_id": 15702
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -72,14 +75,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Mark Lawrence",
             "ftm_eid": "14612248",
             "votesmart_id": 1711,
             "opensecrets_id": "",
-            "ballotpedia": "Mark_Lawrence"
+            "ballotpedia": "Mark_Lawrence",
+            "people_id": 18192
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -114,14 +120,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Lydia Blume",
             "ftm_eid": "10006438",
             "votesmart_id": 155350,
             "opensecrets_id": "",
-            "ballotpedia": "Lydia_Blume"
+            "ballotpedia": "Lydia_Blume",
+            "people_id": 17533
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -155,14 +164,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Patricia Hymanson",
             "ftm_eid": "23424241",
             "votesmart_id": 151436,
             "opensecrets_id": "",
-            "ballotpedia": "Patricia_Hymanson"
+            "ballotpedia": "Patricia_Hymanson",
+            "people_id": 17564
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -197,14 +209,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Beth O'Connor",
             "ftm_eid": "6674178",
             "votesmart_id": 103652,
             "opensecrets_id": "",
-            "ballotpedia": "Beth_O%27Connor"
+            "ballotpedia": "Beth_O%27Connor",
+            "people_id": 10363
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -239,14 +254,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Jennifer Parker",
             "ftm_eid": "39714323",
             "votesmart_id": 170072,
             "opensecrets_id": "",
-            "ballotpedia": "Jennifer_Parker"
+            "ballotpedia": "Jennifer_Parker",
+            "people_id": 18198
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -281,14 +299,17 @@
             "LD1566": "Opposed",
             "LD1912": "Supported"
         },
+        "mpaScore": 33,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Robert Foley",
             "ftm_eid": "9937051",
             "votesmart_id": 151401,
             "opensecrets_id": "",
-            "ballotpedia": "Robert_Foley"
+            "ballotpedia": "Robert_Foley",
+            "people_id": 16781
         },
+        "aflscore": 20,
         "orgscore": 20
     },
     {
@@ -323,14 +344,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Christopher Babbidge",
             "ftm_eid": "6453963",
             "votesmart_id": 36998,
             "opensecrets_id": "",
-            "ballotpedia": "Christopher_Babbidge"
+            "ballotpedia": "Christopher_Babbidge",
+            "people_id": 16688
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -365,14 +389,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Stedman Seavey",
             "ftm_eid": "6571688",
             "votesmart_id": 37035,
             "opensecrets_id": "",
-            "ballotpedia": "Stedman_Seavey"
+            "ballotpedia": "Stedman_Seavey",
+            "people_id": 17532
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -407,14 +434,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Wayne Parry",
             "ftm_eid": "6674181",
             "votesmart_id": 103647,
             "opensecrets_id": "",
-            "ballotpedia": "Wayne_Parry"
+            "ballotpedia": "Wayne_Parry",
+            "people_id": 10366
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -449,14 +479,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Ryan Fecteau",
             "ftm_eid": "23424246",
             "votesmart_id": 151397,
             "opensecrets_id": "",
-            "ballotpedia": "Ryan_Fecteau"
+            "ballotpedia": "Ryan_Fecteau",
+            "people_id": 16635
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -487,19 +520,22 @@
             "LD1769": "Supported",
             "LD1880": "Opposed",
             "LD521": "Absent",
-            "LD1846": "Opposed",
+            "LD1846": "Absent",
             "LD1566": "Supported",
             "LD1912": "Absent"
         },
+        "mpaScore": 58,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Martin Grohman",
             "ftm_eid": "23424249",
             "votesmart_id": 151421,
             "opensecrets_id": "",
-            "ballotpedia": "Martin_Grohman"
+            "ballotpedia": "Martin_Grohman",
+            "people_id": 17334
         },
-        "orgscore": 60
+        "aflscore": 50,
+        "orgscore": 50
     },
     {
         "name": {
@@ -533,14 +569,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "George Hogan",
             "ftm_eid": "6454218",
             "votesmart_id": 36817,
             "opensecrets_id": "",
-            "ballotpedia": "George_Hogan"
+            "ballotpedia": "George_Hogan",
+            "people_id": 8844
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -574,14 +613,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 100,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Donna Bailey",
             "ftm_eid": "20816176",
             "votesmart_id": 170078,
             "opensecrets_id": "",
-            "ballotpedia": "Donna_Bailey"
+            "ballotpedia": "Donna_Bailey",
+            "people_id": 18174
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -616,14 +658,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 100,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Margaret O'Neil",
             "ftm_eid": "39714319",
             "votesmart_id": 170081,
             "opensecrets_id": "",
-            "ballotpedia": "Margaret_O%27Neil"
+            "ballotpedia": "Margaret_O%27Neil",
+            "people_id": 18197
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -658,14 +703,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 33,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Donald Marean",
             "ftm_eid": "6657806",
             "votesmart_id": 36954,
             "opensecrets_id": "",
-            "ballotpedia": "Donald_Marean"
+            "ballotpedia": "Donald_Marean",
+            "people_id": 15747
         },
+        "aflscore": 40,
         "orgscore": 40
     },
     {
@@ -700,14 +748,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Dwayne Prescott",
             "ftm_eid": "23424341",
             "votesmart_id": 151486,
             "opensecrets_id": "",
-            "ballotpedia": "Dwayne_Prescott"
+            "ballotpedia": "Dwayne_Prescott",
+            "people_id": 17336
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -741,14 +792,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Anne-Marie Mastraccio",
             "ftm_eid": "11022701",
             "votesmart_id": 137415,
             "opensecrets_id": "",
-            "ballotpedia": "Anne-Marie_Mastraccio"
+            "ballotpedia": "Anne-Marie_Mastraccio",
+            "people_id": 15729
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -783,14 +837,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Matthew Harrington",
             "ftm_eid": "26357196",
             "votesmart_id": 155022,
             "opensecrets_id": "",
-            "ballotpedia": "Matthew_Harrington"
+            "ballotpedia": "Matthew_Harrington",
+            "people_id": 17788
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -825,14 +882,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Karen Gerrish",
             "ftm_eid": "23424344",
             "votesmart_id": 151416,
             "opensecrets_id": "",
-            "ballotpedia": "Karen_Gerrish"
+            "ballotpedia": "Karen_Gerrish",
+            "people_id": 16782
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -867,14 +927,17 @@
             "LD1566": "Absent",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Heidi Sampson",
             "ftm_eid": "39714345",
             "votesmart_id": 169844,
             "opensecrets_id": "",
-            "ballotpedia": "Heidi_Sampson"
+            "ballotpedia": "Heidi_Sampson",
+            "people_id": 18201
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -909,14 +972,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Jonathan Kinney",
             "ftm_eid": "11023201",
             "votesmart_id": 137328,
             "opensecrets_id": "",
-            "ballotpedia": "Jonathan_Kinney"
+            "ballotpedia": "Jonathan_Kinney",
+            "people_id": 15404
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -951,14 +1017,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Lester Ordway",
             "ftm_eid": "23424349",
             "votesmart_id": 151473,
             "opensecrets_id": "",
-            "ballotpedia": "Lester_Ordway"
+            "ballotpedia": "Lester_Ordway",
+            "people_id": 17789
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -993,14 +1062,17 @@
             "LD1566": "Absent",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Mark Bryant",
             "ftm_eid": "6453999",
             "votesmart_id": 37139,
             "opensecrets_id": "",
-            "ballotpedia": "Mark_Bryant"
+            "ballotpedia": "Mark_Bryant",
+            "people_id": 8793
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -1035,14 +1107,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 42,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Patrick Corey",
             "ftm_eid": "23424353",
             "votesmart_id": 151371,
             "opensecrets_id": "",
-            "ballotpedia": "Patrick_Corey"
+            "ballotpedia": "Patrick_Corey",
+            "people_id": 17332
         },
+        "aflscore": 40,
         "orgscore": 40
     },
     {
@@ -1077,14 +1152,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Maureen Terry",
             "ftm_eid": "39714363",
             "votesmart_id": 170091,
             "opensecrets_id": "",
-            "ballotpedia": "Maureen_Terry"
+            "ballotpedia": "Maureen_Terry",
+            "people_id": 18211
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1112,22 +1190,25 @@
             "LD1704": "Absent",
             "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1769": "Opposed",
+            "LD1769": "Absent",
             "LD1880": "Opposed",
             "LD521": "Supported",
             "LD1846": "Opposed",
             "LD1566": "Supported",
             "LD1912": "Absent"
         },
+        "mpaScore": 58,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Andrew McLean",
             "ftm_eid": "11022704",
             "votesmart_id": 137368,
             "opensecrets_id": "",
-            "ballotpedia": "Andrew_McLean"
+            "ballotpedia": "Andrew_McLean",
+            "people_id": 15278
         },
-        "orgscore": 80
+        "aflscore": 70,
+        "orgscore": 70
     },
     {
         "name": {
@@ -1161,14 +1242,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Heather Sirocki",
             "ftm_eid": "6697144",
             "votesmart_id": 127854,
             "opensecrets_id": "",
-            "ballotpedia": "Heather_Sirocki"
+            "ballotpedia": "Heather_Sirocki",
+            "people_id": 10371
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -1203,14 +1287,17 @@
             "LD1566": "Supported",
             "LD1912": "Opposed"
         },
+        "mpaScore": 33,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Karen Vachon",
             "ftm_eid": "23424360",
             "votesmart_id": 151515,
             "opensecrets_id": "",
-            "ballotpedia": "Karen_Vachon"
+            "ballotpedia": "Karen_Vachon",
+            "people_id": 17339
         },
+        "aflscore": 30,
         "orgscore": 30
     },
     {
@@ -1245,14 +1332,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Kimberly Monaghan-Derrig",
             "ftm_eid": "6513692",
             "votesmart_id": 134569,
             "opensecrets_id": "",
-            "ballotpedia": "Kimberly_Monaghan-Derrig"
+            "ballotpedia": "Kimberly_Monaghan-Derrig",
+            "people_id": 13884
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1287,14 +1377,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Lois Galgay Reckitt",
             "ftm_eid": "9946495",
             "votesmart_id": 170097,
             "opensecrets_id": "",
-            "ballotpedia": "Lois_Reckitt"
+            "ballotpedia": "Lois_Reckitt",
+            "people_id": 18186
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -1322,22 +1415,25 @@
             "LD1704": "Supported",
             "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1769": "Opposed",
+            "LD1769": "Absent",
             "LD1880": "Opposed",
             "LD521": "Absent",
             "LD1846": "Opposed",
             "LD1566": "Absent",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Scott Hamann",
             "ftm_eid": "11022679",
             "votesmart_id": 137361,
             "opensecrets_id": "",
-            "ballotpedia": "Scott_Hamann"
+            "ballotpedia": "Scott_Hamann",
+            "people_id": 14719
         },
-        "orgscore": 80
+        "aflscore": 70,
+        "orgscore": 70
     },
     {
         "name": {
@@ -1371,14 +1467,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 75,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Kevin Battle",
             "ftm_eid": "16072395",
             "votesmart_id": 142905,
             "opensecrets_id": "",
-            "ballotpedia": "Kevin_Battle"
+            "ballotpedia": "Kevin_Battle",
+            "people_id": 16632
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -1412,14 +1511,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Andrew Gattine",
             "ftm_eid": "9946504",
             "votesmart_id": 137364,
             "opensecrets_id": "",
-            "ballotpedia": "Andrew_Gattine"
+            "ballotpedia": "Andrew_Gattine",
+            "people_id": 14717
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1454,14 +1556,17 @@
             "LD1566": "Supported",
             "LD1912": "Absent"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Dillon Bates",
             "ftm_eid": "11022658",
             "votesmart_id": 137354,
             "opensecrets_id": "",
-            "ballotpedia": "Dillon_Bates"
+            "ballotpedia": "Dillon_Bates",
+            "people_id": 17105
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -1496,14 +1601,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 100,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Denise Harlow",
             "ftm_eid": "6501485",
             "votesmart_id": 121070,
             "opensecrets_id": "",
-            "ballotpedia": "Denise_Harlow"
+            "ballotpedia": "Denise_Harlow",
+            "people_id": 13221
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1538,14 +1646,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Richard Farnsworth",
             "ftm_eid": "6425633",
             "votesmart_id": 10790,
             "opensecrets_id": "",
-            "ballotpedia": "Richard_Farnsworth"
+            "ballotpedia": "Richard_Farnsworth",
+            "people_id": 14716
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1580,14 +1691,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Matthew Moonen",
             "ftm_eid": "11022707",
             "votesmart_id": 137356,
             "opensecrets_id": "",
-            "ballotpedia": "Matthew_Moonen"
+            "ballotpedia": "Matthew_Moonen",
+            "people_id": 14726
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1622,14 +1736,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Michael Sylvester",
             "ftm_eid": "39714360",
             "votesmart_id": 170106,
             "opensecrets_id": "",
-            "ballotpedia": "Michael_Sylvester"
+            "ballotpedia": "Michael_Sylvester",
+            "people_id": 18209
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1664,14 +1781,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Rachel Talbot Ross",
             "ftm_eid": "39714339",
             "votesmart_id": 170111,
             "opensecrets_id": "",
-            "ballotpedia": "Rachel_Ross"
+            "ballotpedia": "Rachel_Ross",
+            "people_id": 18210
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1706,14 +1826,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Erik Jorgensen",
             "ftm_eid": "9932629",
             "votesmart_id": 137349,
             "opensecrets_id": "",
-            "ballotpedia": "Erik_Jorgensen"
+            "ballotpedia": "Erik_Jorgensen",
+            "people_id": 15392
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1748,14 +1871,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Benjamin Collings",
             "ftm_eid": "39714220",
             "votesmart_id": 170115,
             "opensecrets_id": "",
-            "ballotpedia": "Benjamin_Collings"
+            "ballotpedia": "Benjamin_Collings",
+            "people_id": 18181
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1790,14 +1916,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Heather Sanborn",
             "ftm_eid": "39714347",
             "votesmart_id": 170119,
             "opensecrets_id": "",
-            "ballotpedia": "Heather_Sanborn"
+            "ballotpedia": "Heather_Sanborn",
+            "people_id": 18202
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -1832,14 +1961,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Teresa Pierce",
             "ftm_eid": "6619180",
             "votesmart_id": 151482,
             "opensecrets_id": "",
-            "ballotpedia": "Teresa_Pierce"
+            "ballotpedia": "Teresa_Pierce",
+            "people_id": 17216
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1874,14 +2006,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Dale Denno",
             "ftm_eid": "15342859",
             "votesmart_id": 151382,
             "opensecrets_id": "",
-            "ballotpedia": "Dale_Denno"
+            "ballotpedia": "Dale_Denno",
+            "people_id": 18183
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1916,14 +2051,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Paul Chace",
             "ftm_eid": "26783607",
             "votesmart_id": 155359,
             "opensecrets_id": "",
-            "ballotpedia": "Paul_Chace"
+            "ballotpedia": "Paul_Chace",
+            "people_id": 16633
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -1958,14 +2096,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Janice Cooper",
             "ftm_eid": "1348259",
             "votesmart_id": 137338,
             "opensecrets_id": "",
-            "ballotpedia": "Janice_Cooper"
+            "ballotpedia": "Janice_Cooper",
+            "people_id": 15402
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -1999,14 +2140,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Sara Gideon",
             "ftm_eid": "11022676",
             "votesmart_id": 137334,
             "opensecrets_id": "",
-            "ballotpedia": "Sara_Gideon"
+            "ballotpedia": "Sara_Gideon",
+            "people_id": 14718
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2041,14 +2185,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Matthea Larsen Daughtry",
             "ftm_eid": "16072377",
             "votesmart_id": 142892,
             "opensecrets_id": "",
-            "ballotpedia": "Matthea_Daughtry"
+            "ballotpedia": "Matthea_Daughtry",
+            "people_id": 14714
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -2074,20 +2221,27 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
-            "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD837": "Supported",
+            "LD1757": "Opposed",
+            "LD1769": "Opposed",
+            "LD1880": "Opposed",
+            "LD521": "Supported",
+            "LD1846": "Opposed",
+            "LD1566": "Supported",
+            "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
-            "name": "Dana Dow",
-            "ftm_eid": "6657626",
-            "votesmart_id": 36789,
+            "name": "Ralph Tucker",
+            "ftm_eid": "14613294",
+            "votesmart_id": 149284,
             "opensecrets_id": "",
-            "ballotpedia": "Dana_Dow"
+            "ballotpedia": "Ralph_Tucker",
+            "people_id": 17108
         },
-        "orgscore": 50
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -2121,14 +2275,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Joyce McCreight",
             "ftm_eid": "26783608",
             "votesmart_id": 155025,
             "opensecrets_id": "",
-            "ballotpedia": "Joyce_McCreight"
+            "ballotpedia": "Joyce_McCreight",
+            "people_id": 17452
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2163,14 +2320,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Jennifer DeChant",
             "ftm_eid": "6426267",
             "votesmart_id": 36828,
             "opensecrets_id": "",
-            "ballotpedia": "Jennifer_DeChant"
+            "ballotpedia": "Jennifer_DeChant",
+            "people_id": 15744
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2205,14 +2365,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Jeffrey Pierce",
             "ftm_eid": "11023225",
             "votesmart_id": 137200,
             "opensecrets_id": "",
-            "ballotpedia": "Jeffrey_Pierce"
+            "ballotpedia": "Jeffrey_Pierce",
+            "people_id": 16637
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -2247,14 +2410,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Denise Tepler",
             "ftm_eid": "13001915",
             "votesmart_id": 103512,
             "opensecrets_id": "",
-            "ballotpedia": "Denise_Tepler"
+            "ballotpedia": "Denise_Tepler",
+            "people_id": 17107
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2278,27 +2444,29 @@
         "political_party": "Democrat",
         "seeking_reelection": true,
         "votes": {
-            "LD 31": "Opposed",
-            "LD 1444": "Supported",
-            "LD 390": "Opposed",
-            "LD 673": "Opposed",
-            "LD 1210": "Supported",
-            "LD 1476": "Supported",
-            "LD 1566": "Supported",
-            "LD 1609": "Opposed",
-            "LD 1625": "Opposed",
-            "LD 1646": "Opposed",
-            "LD 1707": "Supported",
-            "LD 1757": "Opposed",
-            "LD 1833": "Opposed",
-            "LD 1864": "Supported",
-            "LD 1865": "Supported",
-            "LD 1904": "Opposed",
-            "LD 873": "Supported",
-            "LD 1684": "Supported"
+            "LD1770": "Supported",
+            "LD1704": "Supported",
+            "LD837": "Supported",
+            "LD1757": "Opposed",
+            "LD1769": "Opposed",
+            "LD1880": "Opposed",
+            "LD521": "Supported",
+            "LD1846": "Opposed",
+            "LD1566": "Supported",
+            "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
-        "orgscore": 0
+        "legiscan_data": {
+            "name": "Seth Berry",
+            "ftm_eid": "6474821",
+            "votesmart_id": 57592,
+            "opensecrets_id": "",
+            "ballotpedia": "Seth_Berry",
+            "people_id": 8785
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -2332,14 +2500,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Gina Mason",
             "ftm_eid": "39714299",
             "votesmart_id": 170143,
             "opensecrets_id": "",
-            "ballotpedia": "Gina_Mason"
+            "ballotpedia": "Gina_Mason",
+            "people_id": 18195
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -2374,14 +2545,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Stephen Wood",
             "ftm_eid": "13001955",
             "votesmart_id": 121024,
             "opensecrets_id": "",
-            "ballotpedia": "Stephen_Wood"
+            "ballotpedia": "Stephen_Wood",
+            "people_id": 10381
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -2416,14 +2590,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "James Handy",
             "ftm_eid": "39714268",
             "votesmart_id": 170149,
             "opensecrets_id": "",
-            "ballotpedia": "James_Handy"
+            "ballotpedia": "James_Handy",
+            "people_id": 18189
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2458,14 +2635,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Roger Fuller",
             "ftm_eid": "39714247",
             "votesmart_id": 170154,
             "opensecrets_id": "",
-            "ballotpedia": "Roger_Fuller"
+            "ballotpedia": "Roger_Fuller",
+            "people_id": 18185
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2500,14 +2680,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Jared Golden",
             "ftm_eid": "23424266",
             "votesmart_id": 151420,
             "opensecrets_id": "",
-            "ballotpedia": "Jared_Golden"
+            "ballotpedia": "Jared_Golden",
+            "people_id": 16636
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2542,14 +2725,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Heidi Brooks",
             "ftm_eid": "23424267",
             "votesmart_id": 151350,
             "opensecrets_id": "",
-            "ballotpedia": "Heidi_Brooks"
+            "ballotpedia": "Heidi_Brooks",
+            "people_id": 17330
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2584,14 +2770,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Gina Melaragno",
             "ftm_eid": "23424268",
             "votesmart_id": 151465,
             "opensecrets_id": "",
-            "ballotpedia": "Gina_Melaragno"
+            "ballotpedia": "Gina_Melaragno",
+            "people_id": 17273
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2626,14 +2815,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 33,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Bruce Bickford",
             "ftm_eid": "6674044",
             "votesmart_id": 103524,
             "opensecrets_id": "",
-            "ballotpedia": "Bruce_Bickford"
+            "ballotpedia": "Bruce_Bickford",
+            "people_id": 8786
         },
+        "aflscore": 40,
         "orgscore": 40
     },
     {
@@ -2668,14 +2860,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Bettyann Sheats",
             "ftm_eid": "11022722",
             "votesmart_id": 137291,
             "opensecrets_id": "",
-            "ballotpedia": "Bettyann_Sheats"
+            "ballotpedia": "Bettyann_Sheats",
+            "people_id": 18203
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -2709,14 +2904,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Eleanor Espling",
             "ftm_eid": "6681736",
             "votesmart_id": 121057,
             "opensecrets_id": "",
-            "ballotpedia": "Eleanor_Espling"
+            "ballotpedia": "Eleanor_Espling",
+            "people_id": 10335
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -2751,14 +2949,17 @@
             "LD1566": "Supported",
             "LD1912": "Absent"
         },
+        "mpaScore": 58,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Jessica Fay",
             "ftm_eid": "24845212",
             "votesmart_id": 170173,
             "opensecrets_id": "",
-            "ballotpedia": "Jessica_Fay"
+            "ballotpedia": "Jessica_Fay",
+            "people_id": 18184
         },
+        "aflscore": 80,
         "orgscore": 80
     },
     {
@@ -2782,26 +2983,29 @@
         "political_party": "Republican",
         "seeking_reelection": true,
         "votes": {
-            "LD1770": "Supported",
-            "LD1704": "Supported",
-            "LD837": "Supported",
-            "LD1757": "Opposed",
-            "LD1769": "Opposed",
-            "LD1880": "Opposed",
-            "LD521": "Supported",
-            "LD1846": "Opposed",
-            "LD1566": "Supported",
-            "LD1912": "Supported"
+            "LD1770": "Opposed",
+            "LD1704": "Opposed",
+            "LD837": "Opposed",
+            "LD1757": "Supported",
+            "LD1769": "Supported",
+            "LD1880": "Supported",
+            "LD521": "Opposed",
+            "LD1846": "Supported",
+            "LD1566": "Opposed",
+            "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2022,
         "legiscan_data": {
-            "name": "Seth Berry",
-            "ftm_eid": "6474821",
-            "votesmart_id": 57592,
+            "name": "Susan Austin",
+            "ftm_eid": "13001887",
+            "votesmart_id": 37206,
             "opensecrets_id": "",
-            "ballotpedia": "Seth_Berry"
+            "ballotpedia": "Susan_Austin",
+            "people_id": 8780
         },
-        "orgscore": 100
+        "aflscore": 0,
+        "orgscore": 0
     },
     {
         "name": {
@@ -2824,26 +3028,28 @@
         "political_party": "Republican",
         "seeking_reelection": true,
         "votes": {
-            "LD 31": "Absent",
-            "LD 1444": "Absent",
-            "LD 390": "Supported",
-            "LD 673": "Supported",
-            "LD 1210": "Opposed",
-            "LD 1476": "Opposed",
-            "LD 1566": "Opposed",
-            "LD 1609": "Supported",
-            "LD 1625": "Supported",
-            "LD 1646": "Supported",
-            "LD 1707": "Opposed",
-            "LD 1757": "Supported",
-            "LD 1833": "Absent",
-            "LD 1864": "Opposed",
-            "LD 1865": "Supported",
-            "LD 1904": "Supported",
-            "LD 873": "Opposed",
-            "LD 1684": "Opposed"
+            "LD1770": "Opposed",
+            "LD1704": "Opposed",
+            "LD837": "Opposed",
+            "LD1757": "Supported",
+            "LD1769": "Supported",
+            "LD1880": "Supported",
+            "LD521": "Opposed",
+            "LD1846": "Supported",
+            "LD1566": "Absent",
+            "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
+        "legiscan_data": {
+            "name": "Richard Cebra",
+            "ftm_eid": "6657586",
+            "votesmart_id": 37068,
+            "opensecrets_id": "",
+            "ballotpedia": "Richard_Cebra",
+            "people_id": 8800
+        },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -2878,14 +3084,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Phyllis Ginzler",
             "ftm_eid": "23424395",
             "votesmart_id": 151418,
             "opensecrets_id": "",
-            "ballotpedia": "Phyllis_Ginzler"
+            "ballotpedia": "Phyllis_Ginzler",
+            "people_id": 17333
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -2920,14 +3129,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Nathan Wadsworth",
             "ftm_eid": "23424396",
             "votesmart_id": 151518,
             "opensecrets_id": "",
-            "ballotpedia": "Nathan_Wadsworth"
+            "ballotpedia": "Nathan_Wadsworth",
+            "people_id": 17340
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -2962,14 +3174,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Tom Winsor",
             "ftm_eid": "6572621",
             "votesmart_id": 6739,
             "opensecrets_id": "",
-            "ballotpedia": "Tom_Winsor"
+            "ballotpedia": "Tom_Winsor",
+            "people_id": 10379
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3004,14 +3219,17 @@
             "LD1566": "Absent",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Kathleen Dillingham",
             "ftm_eid": "26783612",
             "votesmart_id": 155360,
             "opensecrets_id": "",
-            "ballotpedia": "Kathleen_Jackson_Dillingham"
+            "ballotpedia": "Kathleen_Jackson_Dillingham",
+            "people_id": 17270
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3040,20 +3258,23 @@
             "LD837": "Opposed",
             "LD1757": "Absent",
             "LD1769": "Supported",
-            "LD1880": "Supported",
+            "LD1880": "Absent",
             "LD521": "Absent",
-            "LD1846": "Supported",
+            "LD1846": "Absent",
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Lloyd Herrick",
             "ftm_eid": "23424397",
             "votesmart_id": 151430,
             "opensecrets_id": "",
-            "ballotpedia": "Lloyd_Herrick"
+            "ballotpedia": "Lloyd_Herrick",
+            "people_id": 17584
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3087,14 +3308,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 67,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Christina Riley",
             "ftm_eid": "39714336",
             "votesmart_id": 170193,
             "opensecrets_id": "",
-            "ballotpedia": "Christina_Riley"
+            "ballotpedia": "Christina_Riley",
+            "people_id": 18200
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -3129,14 +3353,17 @@
             "LD1566": "Opposed",
             "LD1912": "Supported"
         },
+        "mpaScore": 8,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Jeffrey Timberlake",
             "ftm_eid": "9931674",
             "votesmart_id": 121048,
             "opensecrets_id": "",
-            "ballotpedia": "Jeffrey_Timberlake"
+            "ballotpedia": "Jeffrey_Timberlake",
+            "people_id": 10372
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -3171,14 +3398,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Gary Hilliard",
             "ftm_eid": "26358656",
             "votesmart_id": 155029,
             "opensecrets_id": "",
-            "ballotpedia": "Gary_Hilliard"
+            "ballotpedia": "Gary_Hilliard",
+            "people_id": 17271
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3213,14 +3443,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Michael Perkins",
             "ftm_eid": "39714326",
             "votesmart_id": 170207,
             "opensecrets_id": "",
-            "ballotpedia": "Michael_Perkins"
+            "ballotpedia": "Michael_Perkins",
+            "people_id": 18199
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3255,14 +3488,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 67,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Catherine Nadeau",
             "ftm_eid": "6501370",
             "votesmart_id": 121000,
             "opensecrets_id": "",
-            "ballotpedia": "Catherine_Nadeau"
+            "ballotpedia": "Catherine_Nadeau",
+            "people_id": 15045
         },
+        "aflscore": 80,
         "orgscore": 80
     },
     {
@@ -3297,14 +3533,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Timothy Theriault",
             "ftm_eid": "23424401",
             "votesmart_id": 149288,
             "opensecrets_id": "",
-            "ballotpedia": "Timothy_Theriault"
+            "ballotpedia": "Timothy_Theriault",
+            "people_id": 16785
         },
+        "aflscore": 20,
         "orgscore": 20
     },
     {
@@ -3339,14 +3578,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Richard Bradstreet",
             "ftm_eid": "39714200",
             "votesmart_id": 170234,
             "opensecrets_id": "",
-            "ballotpedia": "Richard_Bradstreet"
+            "ballotpedia": "Richard_Bradstreet",
+            "people_id": 18176
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3381,14 +3623,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Craig Hickman",
             "ftm_eid": "6501432",
             "votesmart_id": 121034,
             "opensecrets_id": "",
-            "ballotpedia": "Craig_Hickman"
+            "ballotpedia": "Craig_Hickman",
+            "people_id": 14720
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -3422,14 +3667,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 100,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Kent Ackley",
             "ftm_eid": "42157135",
             "votesmart_id": 173349,
             "opensecrets_id": "",
-            "ballotpedia": "Kent_Ackley"
+            "ballotpedia": "Kent_Ackley",
+            "people_id": 18172
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -3464,14 +3712,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Gay Grant",
             "ftm_eid": "11022677",
             "votesmart_id": 137281,
             "opensecrets_id": "",
-            "ballotpedia": "Gay_Grant"
+            "ballotpedia": "Gay_Grant",
+            "people_id": 15273
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -3505,14 +3756,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Charlotte Warren",
             "ftm_eid": "23424275",
             "votesmart_id": 151521,
             "opensecrets_id": "",
-            "ballotpedia": "Charlotte_Warren"
+            "ballotpedia": "Charlotte_Warren",
+            "people_id": 17275
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -3547,14 +3801,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Donna Doore",
             "ftm_eid": "23424277",
             "votesmart_id": 80949,
             "opensecrets_id": "",
-            "ballotpedia": "Donna_Doore"
+            "ballotpedia": "Donna_Doore",
+            "people_id": 16634
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -3589,14 +3846,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 33,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Matthew Pouliot",
             "ftm_eid": "16072373",
             "votesmart_id": 142890,
             "opensecrets_id": "",
-            "ballotpedia": "Matthew_Pouliot"
+            "ballotpedia": "Matthew_Pouliot",
+            "people_id": 14729
         },
+        "aflscore": 40,
         "orgscore": 40
     },
     {
@@ -3631,14 +3891,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Jeffery Hanley",
             "ftm_eid": "23424410",
             "votesmart_id": 151425,
             "opensecrets_id": "",
-            "ballotpedia": "Jeffery_Hanley"
+            "ballotpedia": "Jeffery_Hanley",
+            "people_id": 17215
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3673,14 +3936,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Deborah Sanderson",
             "ftm_eid": "6681724",
             "votesmart_id": 120996,
             "opensecrets_id": "",
-            "ballotpedia": "Deborah_Sanderson"
+            "ballotpedia": "Deborah_Sanderson",
+            "people_id": 10370
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3714,14 +3980,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Stephanie Hawke",
             "ftm_eid": "11023195",
             "votesmart_id": 137284,
             "opensecrets_id": "",
-            "ballotpedia": "Stephanie_Hawke"
+            "ballotpedia": "Stephanie_Hawke",
+            "people_id": 17531
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3756,14 +4025,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Michael Devin",
             "ftm_eid": "6501357",
             "votesmart_id": 120995,
             "opensecrets_id": "",
-            "ballotpedia": "Michael_Devin"
+            "ballotpedia": "Michael_Devin",
+            "people_id": 15889
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -3798,14 +4070,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Abden Simmons",
             "ftm_eid": "39714350",
             "votesmart_id": 170272,
             "opensecrets_id": "",
-            "ballotpedia": "Abden_Simmons"
+            "ballotpedia": "Abden_Simmons",
+            "people_id": 18204
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -3840,14 +4115,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "John Spear",
             "ftm_eid": "39714354",
             "votesmart_id": 170293,
             "opensecrets_id": "",
-            "ballotpedia": "John_Spear"
+            "ballotpedia": "John_Spear",
+            "people_id": 18205
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -3870,27 +4148,29 @@
         "political_party": "Democrat",
         "seeking_reelection": true,
         "votes": {
-            "LD 31": "Opposed",
-            "LD 1444": "Supported",
-            "LD 390": "Opposed",
-            "LD 673": "Opposed",
-            "LD 1210": "Supported",
-            "LD 1476": "Supported",
-            "LD 1566": "Supported",
-            "LD 1609": "Opposed",
-            "LD 1625": "Opposed",
-            "LD 1646": "Opposed",
-            "LD 1707": "Supported",
-            "LD 1757": "Opposed",
-            "LD 1833": "Opposed",
-            "LD 1864": "Supported",
-            "LD 1865": "Supported",
-            "LD 1904": "Opposed",
-            "LD 873": "Supported",
-            "LD 1684": "Supported"
+            "LD1770": "Supported",
+            "LD1704": "Supported",
+            "LD837": "Supported",
+            "LD1757": "Opposed",
+            "LD1769": "Opposed",
+            "LD1880": "Opposed",
+            "LD521": "Supported",
+            "LD1846": "Opposed",
+            "LD1566": "Supported",
+            "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
-        "orgscore": 0
+        "legiscan_data": {
+            "name": "Pinny Beebe-Center",
+            "ftm_eid": "29268745",
+            "votesmart_id": 87409,
+            "opensecrets_id": "",
+            "ballotpedia": "",
+            "people_id": 17667
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -3924,14 +4204,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Owen Casas",
             "ftm_eid": "24799940",
             "votesmart_id": 154745,
             "opensecrets_id": "",
-            "ballotpedia": "Owen_Casas"
+            "ballotpedia": "Owen_Casas",
+            "people_id": 18180
         },
+        "aflscore": 70,
         "orgscore": 70
     },
     {
@@ -3966,14 +4249,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Paula Sutton",
             "ftm_eid": "16283092",
             "votesmart_id": 149282,
             "opensecrets_id": "",
-            "ballotpedia": "Paula_Sutton"
+            "ballotpedia": "Paula_Sutton",
+            "people_id": 18208
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4009,14 +4295,17 @@
             "LD1566": "Supported",
             "LD1912": "Absent"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Stanley Zeigler",
             "ftm_eid": "39714386",
             "votesmart_id": 170329,
             "opensecrets_id": "",
-            "ballotpedia": "Stanley_Zeigler"
+            "ballotpedia": "Stanley_Zeigler",
+            "people_id": 18212
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -4051,14 +4340,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Erin Herbig",
             "ftm_eid": "6501328",
             "votesmart_id": 120985,
             "opensecrets_id": "",
-            "ballotpedia": "Erin_Herbig"
+            "ballotpedia": "Erin_Herbig",
+            "people_id": 10343
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -4093,14 +4385,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 25,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "James Gillway",
             "ftm_eid": "6683325",
             "votesmart_id": 120981,
             "opensecrets_id": "",
-            "ballotpedia": "James_Gillway"
+            "ballotpedia": "James_Gillway",
+            "people_id": 10339
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4134,14 +4429,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Maryanne Kinney",
             "ftm_eid": "23424418",
             "votesmart_id": 151445,
             "opensecrets_id": "",
-            "ballotpedia": "MaryAnne_Kinney"
+            "ballotpedia": "MaryAnne_Kinney",
+            "people_id": 16877
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4176,14 +4474,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Kenneth Fredette",
             "ftm_eid": "6628906",
             "votesmart_id": 19554,
             "opensecrets_id": "",
-            "ballotpedia": "Kenneth_Fredette"
+            "ballotpedia": "Kenneth_Fredette",
+            "people_id": 10338
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4218,14 +4519,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "David Haggan",
             "ftm_eid": "39714265",
             "votesmart_id": 170353,
             "opensecrets_id": "",
-            "ballotpedia": "David_Haggan"
+            "ballotpedia": "David_Haggan",
+            "people_id": 18188
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -4260,14 +4564,17 @@
             "LD1566": "Absent",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Stacey Guerin",
             "ftm_eid": "6683271",
             "votesmart_id": 120954,
             "opensecrets_id": "",
-            "ballotpedia": "Stacey_Guerin"
+            "ballotpedia": "Stacey_Guerin",
+            "people_id": 10341
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -4302,14 +4609,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Roger Reed",
             "ftm_eid": "11023232",
             "votesmart_id": 137237,
             "opensecrets_id": "",
-            "ballotpedia": "Roger_Reed"
+            "ballotpedia": "Roger_Reed",
+            "people_id": 15406
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4333,26 +4643,28 @@
         "political_party": "Republican",
         "seeking_reelection": false,
         "votes": {
-            "LD 31": "Supported",
-            "LD 1444": "Opposed",
-            "LD 390": "Supported",
-            "LD 673": "Supported",
-            "LD 1210": "Opposed",
-            "LD 1476": "Opposed",
-            "LD 1566": "Opposed",
-            "LD 1609": "Supported",
-            "LD 1625": "Supported",
-            "LD 1646": "Supported",
-            "LD 1707": "Opposed",
-            "LD 1757": "Supported",
-            "LD 1833": "Supported",
-            "LD 1864": "Opposed",
-            "LD 1865": "Supported",
-            "LD 1904": "Supported",
-            "LD 873": "Opposed",
-            "LD 1684": "Opposed"
+            "LD1770": "Opposed",
+            "LD1704": "Opposed",
+            "LD837": "Opposed",
+            "LD1757": "Supported",
+            "LD1769": "Supported",
+            "LD1880": "Supported",
+            "LD521": "Opposed",
+            "LD1846": "Supported",
+            "LD1566": "Opposed",
+            "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
+        "legiscan_data": {
+            "name": "Wallace Dexter",
+            "ftm_eid": "0",
+            "votesmart_id": 0,
+            "opensecrets_id": "",
+            "ballotpedia": "Raymond_Wallace",
+            "people_id": 13876
+        },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4387,14 +4699,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Joel Stetkis",
             "ftm_eid": "20815322",
             "votesmart_id": 151507,
             "opensecrets_id": "",
-            "ballotpedia": "Joel_Stetkis"
+            "ballotpedia": "Joel_Stetkis",
+            "people_id": 17337
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4429,14 +4744,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Scott Strom",
             "ftm_eid": "26357200",
             "votesmart_id": 155033,
             "opensecrets_id": "",
-            "ballotpedia": "Scott_Strom"
+            "ballotpedia": "Scott_Strom",
+            "people_id": 18207
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4471,14 +4789,17 @@
             "LD1566": "Absent",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Betty Austin",
             "ftm_eid": "39714188",
             "votesmart_id": 170374,
             "opensecrets_id": "",
-            "ballotpedia": "Betty_Austin"
+            "ballotpedia": "Betty_Austin",
+            "people_id": 18173
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -4513,14 +4834,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "John Picchiotti",
             "ftm_eid": "6683504",
             "votesmart_id": 121036,
             "opensecrets_id": "",
-            "ballotpedia": "John_Picchiotti"
+            "ballotpedia": "John_Picchiotti",
+            "people_id": 10367
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4555,14 +4879,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Thomas Longstaff",
             "ftm_eid": "6512197",
             "votesmart_id": 127846,
             "opensecrets_id": "",
-            "ballotpedia": "Thomas_Longstaff"
+            "ballotpedia": "Thomas_Longstaff",
+            "people_id": 10350
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -4597,14 +4924,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Colleen Madigan",
             "ftm_eid": "39714293",
             "votesmart_id": 170387,
             "opensecrets_id": "",
-            "ballotpedia": "Colleen_Madigan"
+            "ballotpedia": "Colleen_Madigan",
+            "people_id": 18193
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -4639,14 +4969,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 8,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Bradlee Farrin",
             "ftm_eid": "23424426",
             "votesmart_id": 151396,
             "opensecrets_id": "",
-            "ballotpedia": "Bradlee_Farrin"
+            "ballotpedia": "Bradlee_Farrin",
+            "people_id": 16780
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -4681,14 +5014,17 @@
             "LD1566": "Absent",
             "LD1912": "Absent"
         },
+        "mpaScore": 25,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Thomas Skolfield",
             "ftm_eid": "11023240",
             "votesmart_id": 137322,
             "opensecrets_id": "",
-            "ballotpedia": "Thomas_Skolfield"
+            "ballotpedia": "Thomas_Skolfield",
+            "people_id": 17217
         },
+        "aflscore": 20,
         "orgscore": 20
     },
     {
@@ -4712,26 +5048,28 @@
         "political_party": "Republican",
         "seeking_reelection": false,
         "votes": {
-            "LD 31": "Absent",
-            "LD 1444": "Absent",
-            "LD 390": "Supported",
-            "LD 673": "Supported",
-            "LD 1210": "Opposed",
-            "LD 1476": "Supported",
-            "LD 1566": "Supported",
-            "LD 1609": "Supported",
-            "LD 1625": "Supported",
-            "LD 1646": "Supported",
-            "LD 1707": "Absent",
-            "LD 1757": "Supported",
-            "LD 1833": "Absent",
-            "LD 1864": "Opposed",
-            "LD 1865": "Supported",
-            "LD 1904": "Supported",
-            "LD 873": "Opposed",
-            "LD 1684": "Opposed"
+            "LD1770": "Opposed",
+            "LD1704": "Opposed",
+            "LD837": "Absent",
+            "LD1757": "Supported",
+            "LD1769": "Supported",
+            "LD1880": "Supported",
+            "LD521": "Opposed",
+            "LD1846": "Supported",
+            "LD1566": "Opposed",
+            "LD1912": "Absent"
         },
+        "mpaScore": 17,
         "term_limited": 2024,
+        "legiscan_data": {
+            "name": "Lance Harvell",
+            "ftm_eid": "13001960",
+            "votesmart_id": 36621,
+            "opensecrets_id": "",
+            "ballotpedia": "Lance_Harvell",
+            "people_id": 8839
+        },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4759,21 +5097,24 @@
             "LD1704": "Opposed",
             "LD837": "Supported",
             "LD1757": "Supported",
-            "LD1769": "Supported",
+            "LD1769": "Absent",
             "LD1880": "Supported",
             "LD521": "Supported",
             "LD1846": "Supported",
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 33,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Russell Black",
             "ftm_eid": "6683522",
             "votesmart_id": 121044,
             "opensecrets_id": "",
-            "ballotpedia": "Russell_Black"
+            "ballotpedia": "Russell_Black",
+            "people_id": 10321
         },
+        "aflscore": 20,
         "orgscore": 20
     },
     {
@@ -4809,14 +5150,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "John Madigan",
             "ftm_eid": "39714292",
             "votesmart_id": 170402,
             "opensecrets_id": "",
-            "ballotpedia": "John_Madigan"
+            "ballotpedia": "John_Madigan",
+            "people_id": 18194
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -4851,14 +5195,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 0,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Richard Pickett",
             "ftm_eid": "23424428",
             "votesmart_id": 151481,
             "opensecrets_id": "",
-            "ballotpedia": "Richard_Pickett"
+            "ballotpedia": "Richard_Pickett",
+            "people_id": 17585
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -4886,21 +5233,24 @@
             "LD1704": "Opposed",
             "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1769": "Supported",
+            "LD1769": "Absent",
             "LD1880": "Supported",
             "LD521": "Opposed",
             "LD1846": "Supported",
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Frances Head",
             "ftm_eid": "23424429",
             "votesmart_id": 151428,
             "opensecrets_id": "",
-            "ballotpedia": "Frances_Head"
+            "ballotpedia": "Frances_Head",
+            "people_id": 17335
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4935,14 +5285,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Chad Grignon",
             "ftm_eid": "39714261",
             "votesmart_id": 170421,
             "opensecrets_id": "",
-            "ballotpedia": "Chad_Grignon"
+            "ballotpedia": "Chad_Grignon",
+            "people_id": 18187
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -4977,14 +5330,17 @@
             "LD1566": "Opposed",
             "LD1912": "Supported"
         },
+        "mpaScore": 33,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Paul Stearns",
             "ftm_eid": "23424430",
             "votesmart_id": 151506,
             "opensecrets_id": "",
-            "ballotpedia": "Paul_Stearns"
+            "ballotpedia": "Paul_Stearns",
+            "people_id": 16784
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -5019,14 +5375,17 @@
             "LD1566": "Opposed",
             "LD1912": "Supported"
         },
+        "mpaScore": 50,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Norman Higgins",
             "ftm_eid": "23424431",
             "votesmart_id": 151431,
             "opensecrets_id": "",
-            "ballotpedia": "Norman_Higgins"
+            "ballotpedia": "Norman_Higgins",
+            "people_id": 17441
         },
+        "aflscore": 40,
         "orgscore": 40
     },
     {
@@ -5061,14 +5420,17 @@
             "LD1566": "Supported",
             "LD1912": "Absent"
         },
+        "mpaScore": 58,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Robert Duchesne",
             "ftm_eid": "6454123",
             "votesmart_id": 36552,
             "opensecrets_id": "",
-            "ballotpedia": "Robert_Duchesne"
+            "ballotpedia": "Robert_Duchesne",
+            "people_id": 8819
         },
+        "aflscore": 70,
         "orgscore": 70
     },
     {
@@ -5102,14 +5464,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Michelle Dunphy",
             "ftm_eid": "23424294",
             "votesmart_id": 151390,
             "opensecrets_id": "",
-            "ballotpedia": "Michelle_Dunphy"
+            "ballotpedia": "Michelle_Dunphy",
+            "people_id": 17106
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -5143,14 +5508,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Ryan Tipping-Spitz",
             "ftm_eid": "11022732",
             "votesmart_id": 137233,
             "opensecrets_id": "",
-            "ballotpedia": "Ryan_Tipping-Spitz"
+            "ballotpedia": "Ryan_Tipping-Spitz",
+            "people_id": 15748
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -5185,14 +5553,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Aaron Frey",
             "ftm_eid": "11022674",
             "votesmart_id": 137230,
             "opensecrets_id": "",
-            "ballotpedia": "Aaron_Frey"
+            "ballotpedia": "Aaron_Frey",
+            "people_id": 15773
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -5227,14 +5598,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Victoria Kornfield",
             "ftm_eid": "16072365",
             "votesmart_id": 142886,
             "opensecrets_id": "",
-            "ballotpedia": "Victoria_Kornfield"
+            "ballotpedia": "Victoria_Kornfield",
+            "people_id": 14722
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -5269,14 +5643,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "John Schneck",
             "ftm_eid": "11022720",
             "votesmart_id": 137228,
             "opensecrets_id": "",
-            "ballotpedia": "John_Schneck"
+            "ballotpedia": "John_Schneck",
+            "people_id": 15047
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -5311,14 +5688,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Barbara Cardone",
             "ftm_eid": "10062717",
             "votesmart_id": 170443,
             "opensecrets_id": "",
-            "ballotpedia": "Barbara_Cardone"
+            "ballotpedia": "Barbara_Cardone",
+            "people_id": 18177
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -5353,14 +5733,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Garrel Craig",
             "ftm_eid": "42544872",
             "votesmart_id": 174874,
             "opensecrets_id": "",
-            "ballotpedia": "Garrel_Craig"
+            "ballotpedia": "Garrel_Craig",
+            "people_id": 18182
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -5395,14 +5778,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 8,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Peter Lyford",
             "ftm_eid": "23424439",
             "votesmart_id": 151459,
             "opensecrets_id": "",
-            "ballotpedia": "Peter_Lyford"
+            "ballotpedia": "Peter_Lyford",
+            "people_id": 17272
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -5437,14 +5823,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 8,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Richard Campbell",
             "ftm_eid": "6628372",
             "votesmart_id": 6606,
             "opensecrets_id": "",
-            "ballotpedia": "Richard_Campbell_(Maine)"
+            "ballotpedia": "Richard_Campbell_(Maine)",
+            "people_id": 15775
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -5473,20 +5862,23 @@
             "LD837": "Opposed",
             "LD1757": "Supported",
             "LD1769": "Supported",
-            "LD1880": "Supported",
+            "LD1880": "Absent",
             "LD521": "Supported",
-            "LD1846": "Supported",
+            "LD1846": "Absent",
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 25,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Karleton Ward",
             "ftm_eid": "9962644",
             "votesmart_id": 149588,
             "opensecrets_id": "",
-            "ballotpedia": "Karl_Ward"
+            "ballotpedia": "Karl_Ward",
+            "people_id": 17506
         },
+        "aflscore": 20,
         "orgscore": 20
     },
     {
@@ -5521,14 +5913,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Louis Luchini",
             "ftm_eid": "6501315",
             "votesmart_id": 120977,
             "opensecrets_id": "",
-            "ballotpedia": "Louis_Luchini"
+            "ballotpedia": "Louis_Luchini",
+            "people_id": 10351
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -5562,14 +5957,17 @@
             "LD1566": "Supported",
             "LD1912": "Absent"
         },
+        "mpaScore": 100,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Ralph Chapman",
             "ftm_eid": "6501307",
             "votesmart_id": 120973,
             "opensecrets_id": "",
-            "ballotpedia": "Ralph_Chapman"
+            "ballotpedia": "Ralph_Chapman",
+            "people_id": 10325
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -5605,14 +6003,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Walter Kumiega",
             "ftm_eid": "6501301",
             "votesmart_id": 120971,
             "opensecrets_id": "",
-            "ballotpedia": "Walter_Kumiega"
+            "ballotpedia": "Walter_Kumiega",
+            "people_id": 10347
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -5647,14 +6048,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Brian Hubbell",
             "ftm_eid": "11022682",
             "votesmart_id": 137250,
             "opensecrets_id": "",
-            "ballotpedia": "Brian_Hubbell"
+            "ballotpedia": "Brian_Hubbell",
+            "people_id": 15391
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -5689,14 +6093,17 @@
             "LD1566": "Opposed",
             "LD1912": "Absent"
         },
+        "mpaScore": 17,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Richard Malaby",
             "ftm_eid": "6674169",
             "votesmart_id": 103463,
             "opensecrets_id": "",
-            "ballotpedia": "Richard_Malaby"
+            "ballotpedia": "Richard_Malaby",
+            "people_id": 10353
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -5731,14 +6138,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Lawrence Lockman",
             "ftm_eid": "11023210",
             "votesmart_id": 137245,
             "opensecrets_id": "",
-            "ballotpedia": "Lawrence_Lockman"
+            "ballotpedia": "Lawrence_Lockman",
+            "people_id": 15275
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -5774,14 +6184,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Robert Alley",
             "ftm_eid": "23424301",
             "votesmart_id": 151337,
             "opensecrets_id": "",
-            "ballotpedia": "Robert_Alley"
+            "ballotpedia": "Robert_Alley",
+            "people_id": 16631
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -5816,14 +6229,17 @@
             "LD1566": "Opposed",
             "LD1912": "Supported"
         },
+        "mpaScore": 42,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "William Tuell",
             "ftm_eid": "23424445",
             "votesmart_id": 149293,
             "opensecrets_id": "",
-            "ballotpedia": "William_Tuell"
+            "ballotpedia": "William_Tuell",
+            "people_id": 16786
         },
+        "aflscore": 50,
         "orgscore": 50
     },
     {
@@ -5847,27 +6263,29 @@
         "political_party": "Democrat",
         "seeking_reelection": true,
         "votes": {
-            "LD 31": "Supported",
-            "LD 1444": "Supported",
-            "LD 390": "Absent",
-            "LD 673": "Opposed",
-            "LD 1210": "Supported",
-            "LD 1476": "Supported",
-            "LD 1566": "Supported",
-            "LD 1609": "Opposed",
-            "LD 1625": "Opposed",
-            "LD 1646": "Opposed",
-            "LD 1707": "Supported",
-            "LD 1757": "Opposed",
-            "LD 1833": "Opposed",
-            "LD 1864": "Supported",
-            "LD 1865": "Supported",
-            "LD 1904": "Opposed",
-            "LD 873": "Supported",
-            "LD 1684": "Supported"
+            "LD1770": "Supported",
+            "LD1704": "Supported",
+            "LD837": "Supported",
+            "LD1757": "Opposed",
+            "LD1769": "Opposed",
+            "LD1880": "Opposed",
+            "LD521": "Supported",
+            "LD1846": "Opposed",
+            "LD1566": "Supported",
+            "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
-        "orgscore": 0
+        "legiscan_data": {
+            "name": "Anne Perry",
+            "ftm_eid": "6391434",
+            "votesmart_id": 36577,
+            "opensecrets_id": "",
+            "ballotpedia": "Anne_Perry",
+            "people_id": 8879
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -5901,14 +6319,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2018,
         "legiscan_data": {
             "name": "Beth Turner",
             "ftm_eid": "6468549",
             "votesmart_id": 57596,
             "opensecrets_id": "",
-            "ballotpedia": "Beth_Turner"
+            "ballotpedia": "Beth_Turner",
+            "people_id": 12720
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -5943,14 +6364,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Sheldon Hanington",
             "ftm_eid": "23424446",
             "votesmart_id": 151424,
             "opensecrets_id": "",
-            "ballotpedia": "Sheldon_Hanington"
+            "ballotpedia": "Sheldon_Hanington",
+            "people_id": 16853
         },
+        "aflscore": 20,
         "orgscore": 20
     },
     {
@@ -5985,14 +6409,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Stephen Stanley",
             "ftm_eid": "6375569",
             "votesmart_id": 14984,
             "opensecrets_id": "",
-            "ballotpedia": "Stephen_Stanley"
+            "ballotpedia": "Stephen_Stanley",
+            "people_id": 14732
         },
+        "aflscore": 90,
         "orgscore": 90
     },
     {
@@ -6020,22 +6447,25 @@
             "LD1704": "Supported",
             "LD837": "Opposed",
             "LD1757": "Absent",
-            "LD1769": "Opposed",
-            "LD1880": "Opposed",
+            "LD1769": "Absent",
+            "LD1880": "Absent",
             "LD521": "Absent",
-            "LD1846": "Opposed",
+            "LD1846": "Absent",
             "LD1566": "Absent",
             "LD1912": "Absent"
         },
+        "mpaScore": 17,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Roger Sherman",
             "ftm_eid": "6571748",
             "votesmart_id": 19565,
             "opensecrets_id": "",
-            "ballotpedia": "Roger_Sherman"
+            "ballotpedia": "Roger_Sherman",
+            "people_id": 8773
         },
-        "orgscore": 40
+        "aflscore": 10,
+        "orgscore": 10
     },
     {
         "name": {
@@ -6069,14 +6499,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Chris Johansen",
             "ftm_eid": "39714277",
             "votesmart_id": 170484,
             "opensecrets_id": "",
-            "ballotpedia": "Chris_Johansen"
+            "ballotpedia": "Chris_Johansen",
+            "people_id": 18190
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -6111,14 +6544,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 0,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Dustin White",
             "ftm_eid": "26783619",
             "votesmart_id": 155365,
             "opensecrets_id": "",
-            "ballotpedia": "Dustin_White"
+            "ballotpedia": "Dustin_White",
+            "people_id": 17341
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -6154,14 +6590,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "Harold Stewart",
             "ftm_eid": "39714358",
             "votesmart_id": 170489,
             "opensecrets_id": "",
-            "ballotpedia": "Harold_Stewart"
+            "ballotpedia": "Harold_Stewart",
+            "people_id": 18206
         },
+        "aflscore": 0,
         "orgscore": 0
     },
     {
@@ -6196,14 +6635,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2024,
         "legiscan_data": {
             "name": "David McCrea",
             "ftm_eid": "39714304",
             "votesmart_id": 170492,
             "opensecrets_id": "",
-            "ballotpedia": "David_McCrea"
+            "ballotpedia": "David_McCrea",
+            "people_id": 18196
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -6238,14 +6680,17 @@
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
+        "mpaScore": 17,
         "term_limited": 2020,
         "legiscan_data": {
             "name": "Carol McElwee",
             "ftm_eid": "11023214",
             "votesmart_id": 137217,
             "opensecrets_id": "",
-            "ballotpedia": "Carol_McElwee"
+            "ballotpedia": "Carol_McElwee",
+            "people_id": 14725
         },
+        "aflscore": 10,
         "orgscore": 10
     },
     {
@@ -6280,14 +6725,17 @@
             "LD1566": "Supported",
             "LD1912": "Supported"
         },
+        "mpaScore": 83,
         "term_limited": 2022,
         "legiscan_data": {
             "name": "Roland Martin",
             "ftm_eid": "23424310",
             "votesmart_id": 73577,
             "opensecrets_id": "",
-            "ballotpedia": "Roland_Martin"
+            "ballotpedia": "Roland_Martin",
+            "people_id": 16697
         },
+        "aflscore": 100,
         "orgscore": 100
     },
     {
@@ -6311,27 +6759,29 @@
         "political_party": "Democrat",
         "seeking_reelection": true,
         "votes": {
-            "LD 31": "Opposed",
-            "LD 1444": "Supported",
-            "LD 390": "Opposed",
-            "LD 673": "Opposed",
-            "LD 1210": "Supported",
-            "LD 1476": "Supported",
-            "LD 1566": "Supported",
-            "LD 1609": "Opposed",
-            "LD 1625": "Opposed",
-            "LD 1646": "Supported",
-            "LD 1707": "Supported",
-            "LD 1757": "Opposed",
-            "LD 1833": "Opposed",
-            "LD 1864": "Supported",
-            "LD 1865": "Supported",
-            "LD 1904": "Opposed",
-            "LD 873": "Supported",
-            "LD 1684": "Supported"
+            "LD1770": "Supported",
+            "LD1704": "Supported",
+            "LD837": "Supported",
+            "LD1757": "Opposed",
+            "LD1769": "Opposed",
+            "LD1880": "Opposed",
+            "LD521": "Supported",
+            "LD1846": "Opposed",
+            "LD1566": "Supported",
+            "LD1912": "Supported"
         },
+        "mpaScore": 92,
         "term_limited": 2022,
-        "orgscore": 0
+        "legiscan_data": {
+            "name": "John Martin",
+            "ftm_eid": "6373833",
+            "votesmart_id": 6674,
+            "opensecrets_id": "",
+            "ballotpedia": "John_L._Martin",
+            "people_id": 8744
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -6354,27 +6804,25 @@
         "term_limited": 2024,
         "seeking_reelection": true,
         "votes": {
-            "LD 31": "Supported",
-            "LD 1444": "Supported",
-            "LD 390": "Opposed",
-            "LD 673": "Opposed",
-            "LD 1210": "Supported",
-            "LD 1476": "Supported",
-            "LD 1507": "Supported",
-            "LD 1609": "Opposed",
-            "LD 1625": "Opposed",
-            "LD 1646": "Opposed",
-            "LD 1707": "Supported",
-            "LD 1757": "Opposed",
-            "LD 1833": "Opposed",
-            "LD 1864": "Opposed",
-            "LD 1904": "Supported",
-            "LD 1726": "Opposed",
-            "LD 1769": "Opposed",
-            "LD 873": "Supported"
+            "LD1770": "Supported",
+            "LD1704": "Supported",
+            "LD837": "Supported",
+            "LD1757": "Opposed",
+            "LD1913": "Opposed",
+            "LD31": "Supported",
+            "LD1769": "Opposed"
         },
         "mpaScore": 75,
-        "voterScore": 82
+        "legiscan_data": {
+            "name": "Troy Jackson",
+            "ftm_eid": "6454231",
+            "votesmart_id": 36809,
+            "opensecrets_id": "",
+            "ballotpedia": "Troy_Dale_Jackson",
+            "people_id": 8743
+        },
+        "aflscore": 86,
+        "orgscore": 86
     },
     {
         "name": {
@@ -6399,20 +6847,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Supported",
+            "LD1769": "Opposed"
         },
         "mpaScore": 73,
-        "voterScore": 73,
         "legiscan_data": {
             "name": "Michael Carpenter",
             "ftm_eid": "9947340",
             "votesmart_id": 137220,
             "opensecrets_id": "",
-            "ballotpedia": "Michael_Carpenter_(Maine)"
-        }
+            "ballotpedia": "Michael_Carpenter_(Maine)",
+            "people_id": 18178
+        },
+        "aflscore": 86,
+        "orgscore": 86
     },
     {
         "name": {
@@ -6437,20 +6888,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 17,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Rodney Whittemore",
             "ftm_eid": "6683731",
             "votesmart_id": 120926,
             "opensecrets_id": "",
-            "ballotpedia": "Rodney_Whittemore"
-        }
+            "ballotpedia": "Rodney_Whittemore",
+            "people_id": 11976
+        },
+        "aflscore": 29,
+        "orgscore": 29
     },
     {
         "name": {
@@ -6475,20 +6929,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 25,
-        "voterScore": 9,
         "legiscan_data": {
             "name": "Paul Davis",
             "ftm_eid": "6568945",
             "votesmart_id": 19594,
             "opensecrets_id": "",
-            "ballotpedia": "Paul_T._Davis"
-        }
+            "ballotpedia": "Paul_T._Davis",
+            "people_id": 8815
+        },
+        "aflscore": 29,
+        "orgscore": 29
     },
     {
         "name": {
@@ -6513,20 +6970,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Supported",
+            "LD1769": "Opposed"
         },
         "mpaScore": 73,
-        "voterScore": 73,
         "legiscan_data": {
             "name": "James Dill",
             "ftm_eid": "6501252",
             "votesmart_id": 120946,
             "opensecrets_id": "",
-            "ballotpedia": "James_Dill"
-        }
+            "ballotpedia": "James_Dill",
+            "people_id": 10331
+        },
+        "aflscore": 86,
+        "orgscore": 86
     },
     {
         "name": {
@@ -6551,20 +7011,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 42,
-        "voterScore": 9,
         "legiscan_data": {
             "name": "Joyce Maker",
             "ftm_eid": "6683287",
             "votesmart_id": 120967,
             "opensecrets_id": "",
-            "ballotpedia": "Joyce_Maker"
-        }
+            "ballotpedia": "Joyce_Maker",
+            "people_id": 10352
+        },
+        "aflscore": 43,
+        "orgscore": 43
     },
     {
         "name": {
@@ -6589,20 +7052,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 36,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Brian Langley",
             "ftm_eid": "6674158",
             "votesmart_id": 103470,
             "opensecrets_id": "",
-            "ballotpedia": "Brian_Langley"
-        }
+            "ballotpedia": "Brian_Langley",
+            "people_id": 8856
+        },
+        "aflscore": 29,
+        "orgscore": 29
     },
     {
         "name": {
@@ -6627,20 +7093,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Absent"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 36,
-        "voterScore": 20,
         "legiscan_data": {
             "name": "Kimberley Rosen",
             "ftm_eid": "6665937",
             "votesmart_id": 37040,
             "opensecrets_id": "",
-            "ballotpedia": "Kimberley_Rosen"
-        }
+            "ballotpedia": "Kimberley_Rosen",
+            "people_id": 8893
+        },
+        "aflscore": 43,
+        "orgscore": 43
     },
     {
         "name": {
@@ -6665,20 +7134,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 92,
-        "voterScore": 91,
         "legiscan_data": {
             "name": "Geoffrey Gratwick",
             "ftm_eid": "11022678",
             "votesmart_id": 75503,
             "opensecrets_id": "",
-            "ballotpedia": "Geoffrey_Gratwick"
-        }
+            "ballotpedia": "Geoffrey_Gratwick",
+            "people_id": 14742
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -6707,17 +7179,20 @@
             "LD837": "Absent",
             "LD1757": "Supported",
             "LD1913": "Absent",
-            "LD1566": "Absent"
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 0,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Andre Cushing",
             "ftm_eid": "6674087",
             "votesmart_id": 103477,
             "opensecrets_id": "",
-            "ballotpedia": "Andre_Cushing_III"
-        }
+            "ballotpedia": "Andre_Cushing_III",
+            "people_id": 8814
+        },
+        "aflscore": 14,
+        "orgscore": 14
     },
     {
         "name": {
@@ -6742,20 +7217,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Opposed"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 8,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Michael Thibodeau",
             "ftm_eid": "6672631",
             "votesmart_id": 65844,
             "opensecrets_id": "",
-            "ballotpedia": "Michael_Thibodeau"
-        }
+            "ballotpedia": "Michael_Thibodeau",
+            "people_id": 8909
+        },
+        "aflscore": 29,
+        "orgscore": 29
     },
     {
         "name": {
@@ -6780,20 +7258,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 100,
-        "voterScore": 100,
         "legiscan_data": {
             "name": "David Miramant",
             "ftm_eid": "6454321",
             "votesmart_id": 36796,
             "opensecrets_id": "",
-            "ballotpedia": "David_Miramant"
-        }
+            "ballotpedia": "David_Miramant",
+            "people_id": 16639
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -6816,27 +7297,25 @@
         "term_limited": 2024,
         "seeking_reelection": true,
         "votes": {
-            "LD 31": "Supported",
-            "LD 1444": "Supported",
-            "LD 390": "Supported",
-            "LD 673": "Supported",
-            "LD 1210": "Opposed",
-            "LD 1476": "Supported",
-            "LD 1507": "Supported",
-            "LD 1609": "Supported",
-            "LD 1625": "Supported",
-            "LD 1646": "Supported",
-            "LD 1707": "Opposed",
-            "LD 1757": "Supported",
-            "LD 1833": "Supported",
-            "LD 1864": "Opposed",
-            "LD 1904": "Supported",
-            "LD 1726": "Supported",
-            "LD 1769": "Supported",
-            "LD 873": "Supported"
+            "LD1770": "Supported",
+            "LD1704": "Supported",
+            "LD837": "Supported",
+            "LD1757": "Supported",
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 33,
-        "voterScore": 9
+        "legiscan_data": {
+            "name": "Dana Dow",
+            "ftm_eid": "6657626",
+            "votesmart_id": 36789,
+            "opensecrets_id": "",
+            "ballotpedia": "Dana_Dow",
+            "people_id": 10333
+        },
+        "aflscore": 43,
+        "orgscore": 43
     },
     {
         "name": {
@@ -6861,20 +7340,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 92,
-        "voterScore": 91,
         "legiscan_data": {
             "name": "Shenna Bellows",
             "ftm_eid": "9942439",
             "votesmart_id": 151344,
             "opensecrets_id": "",
-            "ballotpedia": "Shenna_Bellows"
-        }
+            "ballotpedia": "Shenna_Bellows",
+            "people_id": 18175
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -6899,20 +7381,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 50,
-        "voterScore": 18,
         "legiscan_data": {
             "name": "Roger Katz",
             "ftm_eid": "6683719",
             "votesmart_id": 80944,
             "opensecrets_id": "",
-            "ballotpedia": "Roger_Katz"
-        }
+            "ballotpedia": "Roger_Katz",
+            "people_id": 11890
+        },
+        "aflscore": 43,
+        "orgscore": 43
     },
     {
         "name": {
@@ -6937,20 +7422,23 @@
         "votes": {
             "LD1770": "Absent",
             "LD1704": "Supported",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Opposed"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 8,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Scott Cyrway",
             "ftm_eid": "26783579",
             "votesmart_id": 155345,
             "opensecrets_id": "",
-            "ballotpedia": "Scott_Cyrway"
-        }
+            "ballotpedia": "Scott_Cyrway",
+            "people_id": 16689
+        },
+        "aflscore": 14,
+        "orgscore": 14
     },
     {
         "name": {
@@ -6975,20 +7463,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 27,
-        "voterScore": 20,
         "legiscan_data": {
             "name": "Thomas Saviello",
             "ftm_eid": "6411327",
             "votesmart_id": 36956,
             "opensecrets_id": "",
-            "ballotpedia": "Thomas_Saviello"
-        }
+            "ballotpedia": "Thomas_Saviello",
+            "people_id": 8898
+        },
+        "aflscore": 43,
+        "orgscore": 43
     },
     {
         "name": {
@@ -7013,20 +7504,23 @@
         "votes": {
             "LD1770": "Opposed",
             "LD1704": "Absent",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 17,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Lisa Keim",
             "ftm_eid": "42545073",
             "votesmart_id": 137323,
             "opensecrets_id": "",
-            "ballotpedia": "Lisa_Keim"
-        }
+            "ballotpedia": "Lisa_Keim",
+            "people_id": 18191
+        },
+        "aflscore": 0,
+        "orgscore": 0
     },
     {
         "name": {
@@ -7050,21 +7544,24 @@
         "seeking_reelection": true,
         "votes": {
             "LD1770": "Supported",
-            "LD1704": "Supported",
+            "LD1704": "Opposed",
             "LD837": "Opposed",
-            "LD1757": "Opposed",
+            "LD1757": "Supported",
             "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 0,
-        "voterScore": 0,
         "legiscan_data": {
-            "name": "Eloise Vitelli",
-            "ftm_eid": "9947092",
-            "votesmart_id": 144905,
+            "name": "James Hamper",
+            "ftm_eid": "6657700",
+            "votesmart_id": 37238,
             "opensecrets_id": "",
-            "ballotpedia": "Eloise_Vitelli"
-        }
+            "ballotpedia": "James_Hamper",
+            "people_id": 8836
+        },
+        "aflscore": 14,
+        "orgscore": 14
     },
     {
         "name": {
@@ -7089,20 +7586,23 @@
         "votes": {
             "LD1770": "Opposed",
             "LD1704": "Opposed",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 0,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Eric Brakey",
             "ftm_eid": "23424346",
             "votesmart_id": 151349,
             "opensecrets_id": "",
-            "ballotpedia": "Eric_Brakey"
-        }
+            "ballotpedia": "Eric_Brakey",
+            "people_id": 16614
+        },
+        "aflscore": 0,
+        "orgscore": 0
     },
     {
         "name": {
@@ -7127,20 +7627,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 92,
-        "voterScore": 91,
         "legiscan_data": {
             "name": "Nathan Libby",
             "ftm_eid": "11022695",
             "votesmart_id": 137301,
             "opensecrets_id": "",
-            "ballotpedia": "Nathan_Libby"
-        }
+            "ballotpedia": "Nathan_Libby",
+            "people_id": 15044
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -7165,20 +7668,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 0,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Garrett Mason",
             "ftm_eid": "6683709",
             "votesmart_id": 120921,
             "opensecrets_id": "",
-            "ballotpedia": "Garrett_Mason"
-        }
+            "ballotpedia": "Garrett_Mason",
+            "people_id": 11885
+        },
+        "aflscore": 29,
+        "orgscore": 29
     },
     {
         "name": {
@@ -7201,27 +7707,25 @@
         "term_limited": 2024,
         "seeking_reelection": true,
         "votes": {
-            "LD 31": "Supported",
-            "LD 1444": "Supported",
-            "LD 390": "Opposed",
-            "LD 673": "Opposed",
-            "LD 1210": "Supported",
-            "LD 1476": "Supported",
-            "LD 1507": "Supported",
-            "LD 1609": "Opposed",
-            "LD 1625": "Opposed",
-            "LD 1646": "Opposed",
-            "LD 1707": "Supported",
-            "LD 1757": "Opposed",
-            "LD 1833": "Opposed",
-            "LD 1864": "Opposed",
-            "LD 1904": "Opposed",
-            "LD 1726": "Opposed",
-            "LD 1769": "Opposed",
-            "LD 873": "Supported"
+            "LD1770": "Supported",
+            "LD1704": "Supported",
+            "LD837": "Supported",
+            "LD1757": "Opposed",
+            "LD1913": "Opposed",
+            "LD31": "Supported",
+            "LD1769": "Opposed"
         },
         "mpaScore": 83,
-        "voterScore": 82
+        "legiscan_data": {
+            "name": "Eloise Vitelli",
+            "ftm_eid": "9947092",
+            "votesmart_id": 144905,
+            "opensecrets_id": "",
+            "ballotpedia": "Eloise_Vitelli",
+            "people_id": 16089
+        },
+        "aflscore": 86,
+        "orgscore": 86
     },
     {
         "name": {
@@ -7248,18 +7752,21 @@
             "LD1704": "Supported",
             "LD837": "Absent",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 91,
-        "voterScore": 90,
         "legiscan_data": {
             "name": "Everett Carson",
             "ftm_eid": "39714212",
             "votesmart_id": 170057,
             "opensecrets_id": "",
-            "ballotpedia": "Everett_Carson"
-        }
+            "ballotpedia": "Everett_Carson",
+            "people_id": 18179
+        },
+        "aflscore": 86,
+        "orgscore": 86
     },
     {
         "name": {
@@ -7284,20 +7791,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 92,
-        "voterScore": 91,
         "legiscan_data": {
             "name": "Catherine Breen",
             "ftm_eid": "9950036",
             "votesmart_id": 149587,
             "opensecrets_id": "",
-            "ballotpedia": "Catherine_Breen"
-        }
+            "ballotpedia": "Catherine_Breen",
+            "people_id": 16852
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -7322,20 +7832,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 67,
-        "voterScore": 45,
         "legiscan_data": {
             "name": "William Diamond",
             "ftm_eid": "6454114",
             "votesmart_id": 36723,
             "opensecrets_id": "",
-            "ballotpedia": "Bill_Diamond"
-        }
+            "ballotpedia": "Bill_Diamond",
+            "people_id": 8757
+        },
+        "aflscore": 71,
+        "orgscore": 71
     },
     {
         "name": {
@@ -7360,20 +7873,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 100,
-        "voterScore": 100,
         "legiscan_data": {
             "name": "Benjamin Chipman",
             "ftm_eid": "6535860",
             "votesmart_id": 127853,
             "opensecrets_id": "",
-            "ballotpedia": "Benjamin_Chipman"
-        }
+            "ballotpedia": "Benjamin_Chipman",
+            "people_id": 10326
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -7398,20 +7914,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 100,
-        "voterScore": 89,
         "legiscan_data": {
             "name": "Mark Dion",
             "ftm_eid": "6512210",
             "votesmart_id": 19477,
             "opensecrets_id": "",
-            "ballotpedia": "Mark_Dion"
-        }
+            "ballotpedia": "Mark_Dion",
+            "people_id": 10332
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -7436,20 +7955,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 92,
-        "voterScore": 91,
         "legiscan_data": {
             "name": "Rebecca Millett",
             "ftm_eid": "9946879",
             "votesmart_id": 137189,
             "opensecrets_id": "",
-            "ballotpedia": "Rebecca_Millett"
-        }
+            "ballotpedia": "Rebecca_Millett",
+            "people_id": 14747
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -7474,20 +7996,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 33,
-        "voterScore": 9,
         "legiscan_data": {
             "name": "Amy Volk",
             "ftm_eid": "6683637",
             "votesmart_id": 121089,
             "opensecrets_id": "",
-            "ballotpedia": "Amy_Volk"
-        }
+            "ballotpedia": "Amy_Volk",
+            "people_id": 10373
+        },
+        "aflscore": 29,
+        "orgscore": 29
     },
     {
         "name": {
@@ -7512,20 +8037,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Absent"
+            "LD1913": "Opposed",
+            "LD31": "Opposed",
+            "LD1769": "Opposed"
         },
         "mpaScore": 92,
-        "voterScore": 100,
         "legiscan_data": {
             "name": "Justin Chenette",
             "ftm_eid": "11022657",
             "votesmart_id": 137374,
             "opensecrets_id": "",
-            "ballotpedia": "Justin_Chenette"
-        }
+            "ballotpedia": "Justin_Chenette",
+            "people_id": 15270
+        },
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -7550,20 +8078,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Opposed",
-            "LD1913": "Supported",
-            "LD1566": "Supported"
+            "LD1913": "Opposed",
+            "LD31": "Supported",
+            "LD1769": "Opposed"
         },
         "mpaScore": 80,
-        "voterScore": 64,
         "legiscan_data": {
             "name": "Susan Deschambault",
             "ftm_eid": "38601740",
             "votesmart_id": 169212,
             "opensecrets_id": "",
-            "ballotpedia": "Susan_Deschambault"
-        }
+            "ballotpedia": "Susan_Deschambault",
+            "people_id": 17934
+        },
+        "aflscore": 86,
+        "orgscore": 86
     },
     {
         "name": {
@@ -7588,20 +8119,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Opposed",
+            "LD837": "Supported",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 33,
-        "voterScore": 9,
         "legiscan_data": {
             "name": "David Woodsome",
             "ftm_eid": "26783586",
             "votesmart_id": 155021,
             "opensecrets_id": "",
-            "ballotpedia": "David_Woodsome"
-        }
+            "ballotpedia": "David_Woodsome",
+            "people_id": 16787
+        },
+        "aflscore": 43,
+        "orgscore": 43
     },
     {
         "name": {
@@ -7626,20 +8160,23 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Supported",
+            "LD837": "Opposed",
             "LD1757": "Supported",
-            "LD1913": "Opposed",
-            "LD1566": "Supported"
+            "LD1913": "Supported",
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 17,
-        "voterScore": 0,
         "legiscan_data": {
             "name": "Ronald Collins",
             "ftm_eid": "6568734",
             "votesmart_id": 19496,
             "opensecrets_id": "",
-            "ballotpedia": "Ronald_Collins"
-        }
+            "ballotpedia": "Ronald_Collins",
+            "people_id": 11874
+        },
+        "aflscore": 29,
+        "orgscore": 29
     },
     {
         "name": {
@@ -7667,16 +8204,19 @@
             "LD837": "Absent",
             "LD1757": "Supported",
             "LD1913": "Absent",
-            "LD1566": "Supported"
+            "LD31": "Supported",
+            "LD1769": "Supported"
         },
         "mpaScore": 60,
-        "voterScore": 30,
         "legiscan_data": {
             "name": "Dawn Hill",
             "ftm_eid": "6474984",
             "votesmart_id": 56984,
             "opensecrets_id": "",
-            "ballotpedia": "Dawn_Hill"
-        }
+            "ballotpedia": "Dawn_Hill",
+            "people_id": 8842
+        },
+        "aflscore": 29,
+        "orgscore": 29
     }
 ]
