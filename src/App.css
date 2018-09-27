@@ -35,9 +35,9 @@
 }
 
 .footer p {
-  line-height: 5rem;
   padding: 0;
   margin: 0;
+  padding-bottom: 15px;
 }
 
 .footer a {

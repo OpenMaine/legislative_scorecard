@@ -33,7 +33,7 @@ class App extends Component {
         </div>
         <div className="footer">
           <div className="container">
-            <p>Made with &hearts; using open source tools from <a href="https://github.com/Code4Maine" target="_blank" rel="noopener noreferrer">Code for Maine</a></p>
+            <p>Made with &hearts; using open source tools from <a href="https://github.com/OpenMaine/aflcio_scorecard" target="_blank" rel="noopener noreferrer">Open Maine</a></p>
           </div>
         </div>
         <ScrollToTop />
