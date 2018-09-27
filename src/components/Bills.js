@@ -17,6 +17,8 @@ class Bills extends React.PureComponent {
   })
 
   splitParagraphs(content='') {
+    if(Array.isArray(content) || !content || content == '') return content;
+
     return content.split("\n\n").map((paragraph, i) => {
       return <p key={i}><Linkify properties={this.linkProps}>{paragraph}</Linkify></p>
     })

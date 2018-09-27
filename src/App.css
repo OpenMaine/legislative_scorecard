@@ -135,6 +135,61 @@ input:not([type=submit]).full-width {
   width: 100% !important;
 }
 
+
+.afl_header {
+  height: 175px;
+  background: #115e68;
+}
+
+.afl_header img {
+  height: 120px; padding-left: 20px
+}
+
+.afl_menu {
+  border-top: solid 1px rgb(31, 118, 128);
+}
+
+.afl_menu a {
+  padding: 0px 20px;
+  color: white;
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: 40px;
+  margin: 5px 0;
+  border-right: solid 1px rgb(31, 118, 128);
+  letter-spacing: .05em;
+} 
+
+.afl_menu a:hover {
+  text-decoration: underline;
+  
+}   
+
+.afl_menu a:last-child {
+  border-right: none;
+}
+
+@media screen and (max-width: 48em) {
+  
+  .afl_header {
+    height: 145px;
+  }
+
+  .afl_header img {
+    height: 90px; padding-left: 10px
+  }
+
+  .afl_menu a {
+    font-size: 12px;
+    padding: 0 10px;
+  } 
+
+}
+
+
+
 @media only screen and (min-width: 48em) and (max-width: 64em) {
   .town {
     width: 200px;
@@ -190,7 +245,11 @@ section h1 {
    padding-right: 1rem;
    box-sizing: border-box;
  }
-
+ .container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 
 
 
@@ -657,7 +716,7 @@ input.popover-input {
 
 .bill-detail .bill-photo img {
   width: 100%;
-  max-width: 400px;
+  max-width: 200px;
   height: auto;
 }
 
@@ -694,10 +753,11 @@ input.popover-input {
   font-size: 1.3em;
 }
 
-.bill-detail .bill-copy .quote-attribution {
+.bill-detail .quote-attribution {
   display: inline-block;
   margin-top: 0.3rem;
   font-style: italic;
+  font-size: 12px;
 
 }
 
@@ -752,3 +812,5 @@ input.popover-input {
   padding-bottom: 3rem;
   text-align: center;
 }
+
+

@@ -291,7 +291,7 @@
             "LD1770": "Opposed",
             "LD1704": "Opposed",
             "LD837": "Opposed",
-            "LD1757": "Absent",
+            "LD1757": "Excused",
             "LD1769": "Supported",
             "LD1880": "Supported",
             "LD521": "Supported",
@@ -309,8 +309,8 @@
             "ballotpedia": "Robert_Foley",
             "people_id": 16781
         },
-        "aflscore": 20,
-        "orgscore": 20
+        "aflscore": 22,
+        "orgscore": 22
     },
     {
         "name": {
@@ -2939,7 +2939,7 @@
         "seeking_reelection": true,
         "votes": {
             "LD1770": "Supported",
-            "LD1704": "Absent",
+            "LD1704": "Excused",
             "LD837": "Supported",
             "LD1757": "Opposed",
             "LD1769": "Opposed",
@@ -2947,7 +2947,7 @@
             "LD521": "Supported",
             "LD1846": "Opposed",
             "LD1566": "Supported",
-            "LD1912": "Absent"
+            "LD1912": "Excused"
         },
         "mpaScore": 58,
         "term_limited": 2024,
@@ -2959,8 +2959,8 @@
             "ballotpedia": "Jessica_Fay",
             "people_id": 18184
         },
-        "aflscore": 80,
-        "orgscore": 80
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -4561,7 +4561,7 @@
             "LD1880": "Supported",
             "LD521": "Opposed",
             "LD1846": "Supported",
-            "LD1566": "Absent",
+            "LD1566": "Excused",
             "LD1912": "Opposed"
         },
         "mpaScore": 8,
@@ -4574,8 +4574,8 @@
             "ballotpedia": "Stacey_Guerin",
             "people_id": 10341
         },
-        "aflscore": 10,
-        "orgscore": 10
+        "aflscore": 11,
+        "orgscore": 11
     },
     {
         "name": {
@@ -4786,7 +4786,7 @@
             "LD1880": "Opposed",
             "LD521": "Supported",
             "LD1846": "Opposed",
-            "LD1566": "Absent",
+            "LD1566": "Excused",
             "LD1912": "Supported"
         },
         "mpaScore": 83,
@@ -4799,8 +4799,8 @@
             "ballotpedia": "Betty_Austin",
             "people_id": 18173
         },
-        "aflscore": 90,
-        "orgscore": 90
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -5857,14 +5857,14 @@
         "political_party": "Republican",
         "seeking_reelection": true,
         "votes": {
-            "LD1770": "Absent",
+            "LD1770": "Excused",
             "LD1704": "Supported",
             "LD837": "Opposed",
             "LD1757": "Supported",
             "LD1769": "Supported",
-            "LD1880": "Absent",
+            "LD1880": "Excused",
             "LD521": "Supported",
-            "LD1846": "Absent",
+            "LD1846": "Excused",
             "LD1566": "Opposed",
             "LD1912": "Opposed"
         },
@@ -5878,8 +5878,8 @@
             "ballotpedia": "Karl_Ward",
             "people_id": 17506
         },
-        "aflscore": 20,
-        "orgscore": 20
+        "aflscore": 29,
+        "orgscore": 29
     },
     {
         "name": {
@@ -6039,7 +6039,7 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Absent",
+            "LD837": "Excused",
             "LD1757": "Opposed",
             "LD1769": "Opposed",
             "LD1880": "Opposed",
@@ -6058,8 +6058,8 @@
             "ballotpedia": "Brian_Hubbell",
             "people_id": 15391
         },
-        "aflscore": 90,
-        "orgscore": 90
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -6464,8 +6464,8 @@
             "ballotpedia": "Roger_Sherman",
             "people_id": 8773
         },
-        "aflscore": 10,
-        "orgscore": 10
+        "aflscore": 20,
+        "orgscore": 20
     },
     {
         "name": {
@@ -7176,9 +7176,9 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Opposed",
-            "LD837": "Absent",
+            "LD837": "Excused",
             "LD1757": "Supported",
-            "LD1913": "Absent",
+            "LD1913": "Excused",
             "LD31": "Supported",
             "LD1769": "Supported"
         },
@@ -7191,8 +7191,8 @@
             "ballotpedia": "Andre_Cushing_III",
             "people_id": 8814
         },
-        "aflscore": 14,
-        "orgscore": 14
+        "aflscore": 20,
+        "orgscore": 20
     },
     {
         "name": {
@@ -7437,8 +7437,8 @@
             "ballotpedia": "Scott_Cyrway",
             "people_id": 16689
         },
-        "aflscore": 14,
-        "orgscore": 14
+        "aflscore": 17,
+        "orgscore": 17
     },
     {
         "name": {
@@ -7750,7 +7750,7 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Absent",
+            "LD837": "Excused",
             "LD1757": "Opposed",
             "LD1913": "Opposed",
             "LD31": "Opposed",
@@ -7765,8 +7765,8 @@
             "ballotpedia": "Everett_Carson",
             "people_id": 18179
         },
-        "aflscore": 86,
-        "orgscore": 86
+        "aflscore": 100,
+        "orgscore": 100
     },
     {
         "name": {
@@ -8201,9 +8201,9 @@
         "votes": {
             "LD1770": "Supported",
             "LD1704": "Supported",
-            "LD837": "Absent",
+            "LD837": "Excused",
             "LD1757": "Supported",
-            "LD1913": "Absent",
+            "LD1913": "Excused",
             "LD31": "Supported",
             "LD1769": "Supported"
         },
@@ -8216,7 +8216,7 @@
             "ballotpedia": "Dawn_Hill",
             "people_id": 8842
         },
-        "aflscore": 29,
-        "orgscore": 29
+        "aflscore": 40,
+        "orgscore": 40
     }
 ]

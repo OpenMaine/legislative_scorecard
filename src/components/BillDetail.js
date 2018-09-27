@@ -11,7 +11,7 @@ export default function BillDetail({ match }) {
 
 
   var splitParagraphs = function(content='') {
-    if(!content || content == '') return content;
+    if(Array.isArray(content) || !content || content == '') return content;
     return content.split("\n\n").map((paragraph, i) => {
       return <p key={i}><Linkify >{paragraph}</Linkify></p>
     })
@@ -43,17 +43,15 @@ export default function BillDetail({ match }) {
         <section>
           <div className="bill-photo">
             <img src={bill.photo} alt="" />
-            <p className="caption">{bill.photo_caption}</p>
+            <p className="caption">{splitParagraphs(bill.quote)}</p>
+            <div className="quote-attribution">
+              {bill.quote_attribution}
+            </div>
           </div>
           <div className="bill-copy">
             <i>{bill.official_title} </i>
             <p>- Sponsored by {bill.sponsor} {bill.vote_number}</p>
             
-            {splitParagraphs(bill.quote)}
-            <div className="quote-attribution">
-              &ndash; {bill.quote_attribution}
-            </div>
-          
             <h2>What is the bill?</h2>
             {splitParagraphs(bill.short_description)}
             <h2>What happened?</h2>

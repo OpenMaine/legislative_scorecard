@@ -37,6 +37,7 @@ https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1770&snum=128
 
 
 # PHOTO
+/bill-photos/default.png
 
 
 # PHOTO CAPTION
@@ -96,6 +97,7 @@ Since LePage closed DCF, many of my former co-workers have struggled to find wor
 
 
 # PHOTO
+/bill-photos/tibbetts.png
 
 
 # PHOTO CAPTION
@@ -155,6 +157,7 @@ Without health insurance, I couldn’t get preventative treatment for my diabete
 
 
 # PHOTO
+/bill-photos/hutchinson.png
 
 
 # PHOTO CAPTION
@@ -215,6 +218,7 @@ For people who are making only $10 an hour at the moment to have their wages cut
 
 
 # PHOTO
+/bill-photos/scott.png
 
 
 # PHOTO CAPTION
@@ -270,6 +274,7 @@ https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1769&snum=128
 
 
 # PHOTO
+/bill-photos/default.png
 
 
 # PHOTO CAPTION
@@ -329,6 +334,7 @@ It was the labor movement in Maine that fought to create the citizens’ initiat
 
 
 # PHOTO
+/bill-photos/keaten.png
 
 
 # PHOTO CAPTION
@@ -389,6 +395,7 @@ The central purpose of unions has always been to respond to workers needs and co
 
 
 # PHOTO
+/bill-photos/hartford.png
 
 
 # PHOTO CAPTION
@@ -444,6 +451,7 @@ https://legislature.maine.gov/legis/bills/display_ps.asp?LD=521&snum=128
 
 
 # PHOTO
+/bill-photos/default.png
 
 
 # PHOTO CAPTION
@@ -499,6 +507,7 @@ https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1846&snum=128
 
 
 # PHOTO
+/bill-photos/default.png
 
 
 # PHOTO CAPTION
@@ -555,6 +564,7 @@ https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1556&snum=128
 
 
 # PHOTO
+/bill-photos/default.png
 
 
 # PHOTO CAPTION
@@ -600,6 +610,7 @@ Clean Elections limits the ability of corporate money to influence elections and
 
 
 # BILL TEXT URL
+http://www.mainelegislature.org/legis/bills/display_ps.asp?ld=1912&PID=1456&snum=128
 
 
 # QUOTE ATTRIBUTION
@@ -609,6 +620,7 @@ Clean Elections limits the ability of corporate money to influence elections and
 
 
 # PHOTO
+/bill-photos/default.png
 
 
 # PHOTO CAPTION
