@@ -1,7 +1,7 @@
 /**
  * colors:
  *   background gray: #F4FBFE
- *   primary blue: #1B8BB4
+ *   primary blue: #115e68
  *   darkblue: #02455F
  *   lightblue: #c3d2d9
  *   yellow: #FFCA48
@@ -84,7 +84,7 @@ hr {
 button, .button, input[type=submit] {
   display: inline-block;
   text-decoration: none;
-  background: #1B8BB4;
+  background: #115e68;
   color: #fff;
   outline: none;
   height: 36px;
@@ -632,7 +632,7 @@ input.popover-input {
 }
 
 .list-item .title span.bill-id {
-  color: #1B8BB4;
+  color: #115e68;
 }
 
 .list-item .description,
@@ -692,13 +692,13 @@ input.popover-input {
 
 .bill-text-link {
   display: inline-block;
-  color: #1B8BB4;
+  color: #115e68;
   text-decoration: none;
   margin-right: 2rem;
 }
 .bill-more-info-link {
   display: inline-block;
-  color: #1B8BB4;
+  color: #115e68;
   text-decoration: none;
   margin-right: 2rem
 }
