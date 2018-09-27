@@ -83,9 +83,11 @@ function Vote(props) {
     org_stance,
   } = bill
 
-  bill.short_description.split("\n\n").map((paragraph, i) => {
+  if(!Array.isArray(bill.short_description)){
+    bill.short_description.split("\n\n").map((paragraph, i) => {
       return <p key={i}><Linkify >{paragraph}</Linkify></p>
     })
+  }
 
   const billId = bill.id.replace(/\s/g, '\u00A0')
 
