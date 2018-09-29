@@ -70,3 +70,7 @@ yarn deploy             # alias for deploy:production
 yarn build:deploy:staging     # http
 yarn build:deploy:production  # http
 ```
+
+## Credits
+
+The project is a fork of [the Legislative Scorecard project](https://github.com/pmlord/legislative-scorecard) created by [Peter Lord](https://github.com/pmlord) with design from Shannon McHarg of [Efficient Interaction](http://efficientinteraction.com/).
