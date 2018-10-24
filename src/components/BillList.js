@@ -46,7 +46,7 @@ function Bill(props) {
         { org_stance &&
           <div className="col-xs-3 col-sm-2">
             <div className="box">
-              <div className="title">Main AFL-CIO stance</div>
+              <div className="title">Maine AFL-CIO stance</div>
               <div className={`stance ${org_stance}`}>{org_stance}</div>
             </div>
           </div>

@@ -111,7 +111,7 @@ function Vote(props) {
           <div className="description">{short_description}</div>
         </div></div>
         <div className="col-xs-6 col-sm-2"><div className="box">
-          <div className="title">Main AFL-CIO bill stance</div>
+          <div className="title">Maine AFL-CIO bill stance</div>
           <div className="stance">{org_stance}</div>
         </div></div>
         <div className="col-xs-6 col-sm-2"><div className="box">
