@@ -37,7 +37,7 @@ function Select(props) {
   const {
     options,
     placeholder,
-    ...selectProps,
+    ...selectProps
   } = props
 
   return (
