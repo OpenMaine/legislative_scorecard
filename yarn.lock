@@ -1677,7 +1677,7 @@ compressible@~2.0.13:
 
 compression@^1.5.2:
   version "1.7.2"
-  resolved "http://registry.npmjs.org/compression/-/compression-1.7.2.tgz#aaffbcd6aaf854b44ebb280353d5ad1651f59a69"
+  resolved "https://registry.npmjs.org/compression/-/compression-1.7.2.tgz#aaffbcd6aaf854b44ebb280353d5ad1651f59a69"
   dependencies:
     accepts "~1.3.4"
     bytes "3.0.0"
@@ -4623,9 +4623,9 @@ lodash@2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-2.4.1.tgz#5b7723034dda4d262e5a46fb2c58d7cc22f71420"
 
-"lodash@>=3.5 <5", lodash@^4.14.0, lodash@^4.15.0, lodash@^4.17.10, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.3.0:
-  version "4.17.10"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+"lodash@>=3.5 <5", lodash@^4.14.0, lodash@^4.15.0, lodash@^4.17.19, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.3.0:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
 
 loglevel@^1.4.1:
   version "1.6.1"
@@ -6608,9 +6608,9 @@ rx-lite@*, rx-lite@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/rx-lite/-/rx-lite-4.0.8.tgz#0b1e11af8bc44836f04a6407e92da42467b79444"
 
-rxjs@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.2.0.tgz#e024d0e180b72756a83c2aaea8f25423751ba978"
+rxjs@^6.2.1:
+  version "6.6.0"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.6.0.tgz#af2901eedf02e3a83ffa7f886240ff9018bbec84"
   dependencies:
     tslib "^1.9.0"
 
@@ -7439,9 +7439,9 @@ type-is@~1.6.15, type-is@~1.6.16:
     media-typer "0.3.0"
     mime-types "~2.1.18"
 
-typed-rx-emitter@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/typed-rx-emitter/-/typed-rx-emitter-1.1.1.tgz#3bafd3c390d5fd7ffaa4784cb0d56cc983bbbd79"
+typed-rx-emitter@^1.1.2:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/typed-rx-emitter/-/typed-rx-emitter-1.2.0.tgz#369d274c955e430a03e778e3f92299747e200448"
 
 typedarray@^0.0.6:
   version "0.0.6"
@@ -7491,11 +7491,11 @@ underscore@~1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.6.0.tgz#8b38b10cacdef63337b8b24e4ff86d45aea529a8"
 
-undux@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/undux/-/undux-4.4.0.tgz#64aee1012ee211d303146122aa36423b291ca95d"
+undux@^4.7.1:
+  version "4.8.0"
+  resolved "https://registry.yarnpkg.com/undux/-/undux-4.8.0.tgz#a9600d967cfa4b01df57d44f26f9893fe476ed02"
   dependencies:
-    typed-rx-emitter "^1.1.1"
+    typed-rx-emitter "^1.1.2"
 
 "unicode@>= 0.3.1":
   version "10.0.0"
