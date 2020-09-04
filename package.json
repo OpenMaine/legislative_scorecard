@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "airtable": "^0.5.4",
+    "airtable": "^0.7.2",
     "async": "^2.6.0",
     "cheerio": "^1.0.0-rc.2",
     "dotenv": "^5.0.1",
