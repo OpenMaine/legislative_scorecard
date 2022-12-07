@@ -22,7 +22,7 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
     "react-simple-popover": "^0.2.4",
-    "react-snap": "^1.13.0",
+    "react-snap": "^1.15.0",
     "react-spinners": "^0.3.2",
     "request": "^2.86.0",
     "rxjs": "^6.2.1",
